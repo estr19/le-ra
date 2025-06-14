@@ -1,13 +1,271 @@
 body {
+  background-image: linear-gradient(
+      rgba(244, 248, 211, 0.25),
+      rgba(244, 248, 211, 0.75)
+    ),
+    url("/public/ipe400.jpg");
+  /* background-color: #171d2d; */
+  background-attachment: fixed;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+:root {
+  --star-size: 2.25em;
+  --star-color: #8e7dbe;
+  --star-background: #a6d6d6;
+}
+
+.Stars {
+  --percent: calc(var(--rating) / 5 * 100%);
+  font-size: var(--star-size);
+  width: 100%;
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+}
+
+.Stars::before {
+  content: "★★★★★";
+  background: linear-gradient(
+    90deg,
+    var(--star-color) var(--percent),
+    var(--star-background) var(--percent)
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+  padding: 10px;
+  flex-wrap: wrap;
+  margin: 10px;
+}
+
+figure {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: .25em;
+  margin: auto;
+}
+
+.book {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 230px;
+}
+
+img {
+  border: 4mm ridge #9b72aa;
+  margin-bottom: 10px;
+  width: 310px;
+  height: 475px;
+}
+
+p {
+  flex: 1;
+  text-align: center;
+  word-break: break-word;
+  font-family: "Libre Baskerville", serif;
+  font-size: 2.25em;
+  color: #022e57;
+  margin: 0px;
+}
+
+a {
+  cursor: pointer;
+  color: #ea7b93;
+  text-decoration: none;
+}
+
+@media all and (max-width: 900px) {
+  body {
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  #stickyTop {
+    flex-flow: column wrap;
+  }
+
+  .header {
+    display: flex;
+    flex-flow: column wrap;
+  }
+
+  span {
+    text-align: center;
+    word-break: break-word;
+  }
+
+  .music {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex: 250px;
+  }
+
+  .countdown {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+
+  input {
+    display: flex;
+    justify-content: center;
+  }
+
+  h1 {
+    margin: 1rem;
+    text-align: center;
+    word-break: break-word;
+    width: 98%;
+  }
+
+  #quotebutton {
+    border: 1px solid #022e57;
+    margin-bottom: 10px;
+  }
+
+  p {
+    flex: 1;
+    text-align: center;
+    word-break: break-word;
+  }
+
+  .container {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0px;
+    padding: 0px;
+    flex-wrap: wrap;
+  }
+
+  .book {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 230px;
+  }
+
+  img {
+    width: 200px;
+    height: 306px;
+  }
+
+  img#picPlay {
+    background-color: none;
+    border: none;
+    height: 60px;
+    width: 60px;
+  }
+}
+
+@media all and (max-width: 500px) {
+  body {
+    font-size: 9px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  .header {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin-bottom: 0px;
+    width: 95%;
+  }
+
+  span {
+    padding: 1px;
+  }
+
+  .music {
+    flex: 150px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .countdown {
+    flex: 0 1 auto;
+    display: flex;
+    flex-direction: row;
+  }
+
+  #playbutton {
+    border: 1px solid #9b3675;
+    border-radius: 10px;
+    padding: 10px 15px;
+  }
+
+  #quotebutton {
+    border: 1px solid #022e57;
+    margin-bottom: 10px;
+  }
+
+  input {
+    display: flex;
+    justify-content: center;
+    margin: 0px 5px;
+    padding: 5px;
+    border: 1px solid #022e57;
+    border-radius: 10px;
+  }
+
+  h1 {
+    text-align: center;
+    word-break: break-word;
+  }
+
+  .container {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0px;
+    padding: 0px;
+    flex-wrap: wrap;
+  }
+
+  .book {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    width: 161px;
+  }
+
+  p.buttontext,
+  input#guess {
+    margin: 0px 5px;
+  }
+
+  img {
+    border: 3mm ridge #9b72aa;
+    width: 105px;
+    height: 161px;
+  }
+
+  img#picPlay {
+    background-color: none;
+    padding: none;
+    margin: none;
+    border: none;
+    height: 35px;
+    width: 35px;
+  }
 }
