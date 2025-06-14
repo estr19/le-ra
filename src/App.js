@@ -6,7 +6,7 @@ function App() {
       <h1>Le-Ra and the Princesses of Publications</h1>
       <div className="container">
         {books.map((book) => {
-          const { id, name, author, bookRating, cover, link, text} =
+          const { id, name, author, bookRating, cover, link, textB, textE} =
             book;
           return (
             <div className="book" key={id}>
@@ -29,7 +29,14 @@ function App() {
                   }
                 />
                 </a>
-                <p>{text}</p>
+                <div className='description'>
+                  <p>
+                    {textB}
+                  </p>
+                  <p>
+                    {textE}
+                  </p>
+                </div>
               </div>
             </div>
           );

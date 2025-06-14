@@ -11,7 +11,7 @@ body {
 
 :root {
   --star-size: 2.25em;
-  --star-color: #8e7dbe;
+  --star-color: #ea7b93;
   --star-background: #a6d6d6;
 }
 
@@ -38,9 +38,6 @@ body {
 h1 {
   /* background-color: #A6D6D6; */
   color: #8E7DBE;
-  /* font-family: "Libre Baskerville", serif; */
-  /* font-family: "Lovers Quarrel", cursive; */
-  /* font-family: "Acme", sans-serif; */
   font-family: "Mouse Memoirs", sans-serif;
   margin: 1em;
   font-size: 6em;
@@ -77,6 +74,11 @@ figure {
   background-color: rgba(244, 248, 211, .85);
 }
 
+.description {
+  display: flex;
+  flex-flow: column;
+}
+
 .book {
   display: flex;
   justify-content: center;
@@ -106,9 +108,9 @@ p {
 
 a {
   cursor: pointer;
-  color: #ea7b93;
+  color: #7b66b2;
   text-decoration: none;
-  width: 30%;
+  width: 40%;
   margin: 2em;
 }
 
