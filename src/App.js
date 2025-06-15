@@ -10,7 +10,6 @@ function App() {
             book;
           return (
             <div className="book" key={id}>
-              <div className="blogEntry">
                 <div className="summary">
                   <figure>
                     <img src={cover} alt={name} />
@@ -31,27 +30,18 @@ function App() {
                 </div>
                 <div className="description">
                   <div className="dItems">
-                    <p>
-                      <b>@bensmom33:</b> {textB}
-                    </p>
+                    <b>@bensmom33:</b> {textB}
                   </div>
                   <div className="dItems">
-                    <p>
-                      <b>@estr19:</b> {textE}
-                    </p>
+                    <b>@estr19:</b> {textE}
                   </div>
                   <div className="dItems">
-                    <p>
-                      <b>Tropes:</b> {tropes}
-                    </p>
+                    <b>Tropes:</b> {tropes}
                   </div>
                   <div className="dItems">
-                    <p>
-                      <b>Additional resources:</b> {addOns}
-                    </p>
+                    <b>Additional resources:</b> {addOns}
                   </div>
                 </div>
-              </div>
             </div>
           );
         })}

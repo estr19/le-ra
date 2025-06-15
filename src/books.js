@@ -15,8 +15,8 @@ export const books = [
     cover: 'https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1677601132i/75505273.jpg',
     link: 'https://www.goodreads.com/book/show/75505273-a-nobleman-s-guide-to-seducing-a-scoundrel',
     textB: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Mauris ante ligula, facilisis sed ornare eu, lobortis in odio.",
-    textE: "Praesent convallis urna a lacus interdum ut hendrerit risus congue. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta. Cras ac leo purus. Mauris quis diam velit.",
-    tropes: 'one bed, forced proximity, romance',
+    textE: `The second book of the series! Now one of the side characters from the first installment is the main protagonist in this story. Again, incredible writing, plot twists and mystery that keeps you glued to the book until the "Acknowledgment" page, great side characters, character development - it has everything!!`,
+    tropes: 'historical fiction, mystery, friends to lovers, forced proximity',
     addOns: 'links, fanart, etc',
   },
   {
@@ -27,8 +27,8 @@ export const books = [
     cover: 'https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1663091297i/61215948.jpg',
     link: 'https://www.goodreads.com/book/show/61215948-the-secret-lives-of-country-gentlemen',
     textB: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Mauris ante ligula, facilisis sed ornare eu, lobortis in odio.",
-    textE: "Praesent convallis urna a lacus interdum ut hendrerit risus congue. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta. Cras ac leo purus. Mauris quis diam velit.",
-    tropes: 'one bed, forced proximity, romance',
+    textE: `I suggested this book to @bensmom33 since I was going through my pile of "Blind date with a book" books, and I vividly remember selecting this book at the store and had NO idea it will have such a hold on me!! Captivating writing, compelling story, great main characters that grow throughout the story, incredible side characters and a good ol' mystery! Can't believe how much I loved this book, to the point that we both wanted to read the next book in the series!!`,
+    tropes: 'historical fiction, mystery, hooking-up-strangers to enemies to lovers, misunderstandings',
     addOns: 'links, fanart, etc',
   },
   {
@@ -39,8 +39,8 @@ export const books = [
     cover: 'https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1578640390i/48994908.jpg',
     link: 'https://www.goodreads.com/book/show/48994908-boyfriend-material',
     textB: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Mauris ante ligula, facilisis sed ornare eu, lobortis in odio.",
-    textE: "Praesent convallis urna a lacus interdum ut hendrerit risus congue. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta. Cras ac leo purus. Mauris quis diam velit.",
-    tropes: 'one bed, forced proximity, romance',
+    textE: "Welp, a good example of so many people ALSO raving about this one and this was not even close to being a good read. I think we hate-read it in 2 or 3 days just to get over it. Blergh!! The main character is so annoying and whiny that I wanted to throw my kindle every three pages; the side characters might as well not be there (except for the love interest's friends), and honestly the only decent character we get is main protagonist's love interest. I wanted to stage an intervention and rescue him from the main cuckoo guy. ",
+    tropes: 'fake dating, modern setting',
     addOns: 'links, fanart, etc',
   },
   {
@@ -51,8 +51,8 @@ export const books = [
     cover: 'https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1674685755i/62365905.jpg',
     link: 'https://www.goodreads.com/book/show/62365905-we-could-be-so-good',
     textB: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Mauris ante ligula, facilisis sed ornare eu, lobortis in odio.",
-    textE: "Praesent convallis urna a lacus interdum ut hendrerit risus congue. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta. Cras ac leo purus. Mauris quis diam velit.",
-    tropes: 'one bed, forced proximity, romance',
+    textE: "I don't like reading historical novels but SO many people were raving about this series that I finally decided to give it a chance. And thank God I did!!! Didn't regret it for one second. The writing is exquisite, the main characters are very real and well-written, the side characters are not just placeholders but add to the story quite a bit. A very memorable book that I will be recommending to everyone!",
+    tropes: 'secret workplace romance, strangers to friends to lovers, historical fiction',
     addOns: 'links, fanart, etc',
   }
 ];
