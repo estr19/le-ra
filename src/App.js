@@ -6,7 +6,7 @@ function App() {
       <h1>Le-Ra and the Princesses of Publications</h1>
       <div className="container">
         {books.map((book) => {
-          const { id, name, author, bookRating, cover, link, textB, textE} =
+          const { id, name, author, bookRating, cover, link, textB, textE, tropes, addOns} =
             book;
           return (
             <div className="book" key={id}>
@@ -30,12 +30,10 @@ function App() {
                 />
                 </a>
                 <div className='description'>
-                  <p>
-                    {textB}
-                  </p>
-                  <p>
-                    {textE}
-                  </p>
+                  <div className='dItems'><p><b>@bensmom33:</b> {textB}</p></div>
+                  <div className='dItems'><p><b>@estr19:</b> {textE}</p></div>
+                  <div className='dItems'><p><b>Tropes:</b> {tropes}</p></div>
+                  <div className='dItems'><p><b>Additional resources:</b> {addOns}</p></div>
                 </div>
               </div>
             </div>
