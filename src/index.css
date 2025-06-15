@@ -1,18 +1,19 @@
 body {
   background-image: linear-gradient(
-      rgba(252, 233, 237, .35),
-      rgba(247, 207, 216, .35)
+      rgba(247, 207, 216, .75),
+      rgba(166, 214, 214, .75)
     ),
     url("/public/ipe300.jpg");
   /* background-color: #171d2d; */
   background-attachment: fixed;
   margin: 0;
+  padding: 1em 3em;
 }
 
 :root {
   --star-size: 2.25em;
   --star-color: #ea7b93;
-  --star-background: #a6d6d6;
+  --star-background: #F4F8D3;
 }
 
 .Stars {
@@ -43,8 +44,16 @@ h1 {
   text-align: center;
 }
 
-h2, h3 {
+h2 {
   text-align: center;
+  font-family: "Acme", sans-serif;
+  margin: .5em 0 0;
+}
+
+h3 {
+  text-align: center;
+  font-family: "Libre Baskerville", serif;
+  margin: .5em 0 0;
 }
 
 .container {
@@ -71,6 +80,7 @@ figure {
   flex-flow: row;
   align-items: center;
   background-color: rgba(244, 248, 211, .85);
+  border-radius: 2em;
 }
 
 .description {
@@ -80,6 +90,7 @@ figure {
   background-color: rgba(247, 207, 216, .5);
   padding: 2em;
   margin: 2em;
+  border-radius: 2em 0;
 }
 
 .dItems {
@@ -113,12 +124,20 @@ p {
   padding: 1em;
 }
 
+.summary {
+  display: flex;
+  flex-flow: column;
+  background-color: #a6d6d6;
+  width: 40%;
+  padding: 2em;
+  margin: 2em;
+  border-radius: 2em;
+}
+
 a {
   cursor: pointer;
-  color: #7b66b2;
+  color: #6d55aa;
   text-decoration: none;
-  width: 40%;
-  margin: 2em;
 }
 
 @media all and (max-width: 900px) {
