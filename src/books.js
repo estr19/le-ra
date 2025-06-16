@@ -8,7 +8,7 @@ export const books = [
   //   link: '',
   // },
   {
-    id: 4,
+    id: 5,
     name: `A Nobleman's Guide to Seducing a Scoundrel`,
     author: 'K.J. Charles',
     bookRating: '5',
@@ -21,7 +21,7 @@ export const books = [
     highlightsE: 'https://www.goodreads.com/notes/75505273-a-nobleman-s-guide-to-seducing-a-scoundrel/124881434-lena?ref=abp',
   },
   {
-    id: 3,
+    id: 4,
     name: 'The Secret Lives of Country Gentlemen',
     author: 'K.J. Charles',
     bookRating: '5',
@@ -34,7 +34,7 @@ export const books = [
     highlightsE: 'https://www.goodreads.com/notes/61215948-the-secret-lives-of-country-gentlemen/124881434-lena?ref=abp',
   },
   {
-    id: 2,
+    id: 3,
     name: 'Boyfriend Material',
     author: 'Alexis Hall',
     bookRating: '0.5',
@@ -45,6 +45,19 @@ export const books = [
     tropes: 'fake dating, modern setting',
     addOns: 'links, fanart, etc',
     highlightsE: 'https://www.goodreads.com/notes/48994908-boyfriend-material/124881434-lena?ref=abp',
+  },
+  {
+    id: 2,
+    name: 'You Should Be So Lucky',
+    author: 'Cat Sebastian',
+    bookRating: '5',
+    cover: 'https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1706543774i/196774809.jpg',
+    link: 'https://www.goodreads.com/book/show/196774809-you-should-be-so-lucky',
+    textB: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Mauris ante ligula, facilisis sed ornare eu, lobortis in odio.",
+    textE: `The second book of the series! One of the side characters from the first installment is the main protagonist in this story. Loved character development, a different set of circumstances, not just a carbon copy of the first book with different names. Our favorite characters from the first book make an appearance here, and it doesn't feel gratuitous, for which I'm grateful.`,
+    tropes: 'historical fiction, strangers to reluctant friends to lovers, forced proximity',
+    addOns: 'links, fanart, etc',
+    highlightsE: 'https://www.goodreads.com/notes/196774809-you-should-be-so-lucky/124881434-lena?ref=abp',
   },
   {
     id: 1,

@@ -34,7 +34,7 @@ function App() {
                   </div>
                   <div className="dItems">
                     <b>@estr19:</b> {textE}<br></br>
-                    My favorite quotes and passages from this book can be found <a href={highlightsE} target="_blank" rel="noopener noreferrer">here</a>.
+                    <i>My favorite quotes and passages from this book can be found</i> <a href={highlightsE} target="_blank" rel="noopener noreferrer"><b>here</b></a>.
                   </div>
                   <div className="dItems">
                     <b>Tropes:</b> {tropes}
