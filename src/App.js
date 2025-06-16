@@ -6,7 +6,7 @@ function App() {
       <h1>Le-Ra and the Princesses of Publications</h1>
       <div className="container">
         {books.map((book) => {
-          const { id, name, author, bookRating, cover, link, textB, textE, tropes, addOns} =
+          const { id, name, author, bookRating, cover, link, textB, textE, tropes, highlightsE} =
             book;
           return (
             <div className="book" key={id}>
@@ -33,14 +33,15 @@ function App() {
                     <b>@bensmom33:</b> {textB}
                   </div>
                   <div className="dItems">
-                    <b>@estr19:</b> {textE}
+                    <b>@estr19:</b> {textE}<br></br>
+                    My favorite quotes and passages from this book can be found <a href={highlightsE} target="_blank" rel="noopener noreferrer">here</a>.
                   </div>
                   <div className="dItems">
                     <b>Tropes:</b> {tropes}
                   </div>
-                  <div className="dItems">
+                  {/* <div className="dItems">
                     <b>Additional resources:</b> {addOns}
-                  </div>
+                  </div> */}
                 </div>
             </div>
           );
