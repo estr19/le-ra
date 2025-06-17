@@ -10,6 +10,52 @@ body {
   padding: 0;
 }
 
+.rwrb {
+  background-image: linear-gradient(
+      rgba(247, 207, 216, .75),
+      rgba(166, 214, 214, .75)
+    ),
+    url("/public/rwrbbookssq.jpg");
+  /* background-color: #171d2d; */
+  background-attachment: fixed;
+  height: fit-content;
+  margin: 0;
+  padding: 0;
+}
+
+#rwrbH1 {
+  /* color: #6d55aa;
+  font-family: "Mouse Memoirs", sans-serif;
+  font-size: 5em;
+  text-align: center; */
+  margin: 0 0 .75em;
+  padding: .75em 0 0;
+}
+
+.RWRBcontainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.top {
+  background-color: #6d55aa;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-evenly;
+  padding: .5em;
+}
+
+a.link {
+  color: #F4F8D3;
+  font-family: "Acme", sans-serif;
+  font-size: 1.25em;
+}
+
+.bensmom33, .estr19 {
+  flex: 1;
+}
+
 :root {
   --star-size: 2.25em;
   --star-color: #ea7b93;
@@ -37,7 +83,6 @@ body {
 }
 
 h1 {
-  /* background-color: #A6D6D6; */
   color: #6d55aa; /* 6d55aa 8E7DBE */
   font-family: "Mouse Memoirs", sans-serif;
   font-size: 6em;
@@ -145,12 +190,19 @@ a {
   text-decoration: none;
 }
 
+/**************************************************** MAX 900px ****************************************************/
+
 @media all and (max-width: 900px) {
   body {
     /* font-size: 1em; */
     display: flex;
     justify-content: center;
     flex-direction: column;
+  }
+
+  .RWRBcontainer {
+    flex-direction: column;
+    justify-content: space-around;
   }
 
   .container {
@@ -166,7 +218,7 @@ a {
 
   p {
     flex: 1;
-    text-align: center;
+    /* text-align: center; */
     word-break: break-word;
   }
 
@@ -198,6 +250,8 @@ a {
     height: auto;
   }
 }
+
+/**************************************************** MAX 500px ****************************************************/
 
 @media all and (max-width: 500px) {
   body {

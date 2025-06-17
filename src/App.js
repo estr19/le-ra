@@ -1,53 +1,27 @@
-import { books } from './books';
+import React from 'react';
+import {BrowserRouter as Router, Routes, Route, Link} from "react-router-dom";
+import RWRB from './RWRB';
+import ContactUs from './ContactUs';
+import Main from './Main';
 
 function App() {
-  return (
-    <div className="App">
-      <h1>Le-Ra and the Princesses of Publications</h1>
-      <div className="container">
-        {books.map((book) => {
-          const { id, name, author, bookRating, cover, GR, SG, textB, textE, tropes, highlightsE} =
-            book;
-          return (
-            <div className="book" key={id}>
-                <div className="summary">
-                  <figure>
-                    <img src={cover} alt={name} />
-                  </figure>
-                  <h2>"{name}"</h2>
-                  <h3 className="author">{author}</h3>
-                  <h4><a href={GR} target="_blank" rel="noopener noreferrer">Goodreads</a> | <a href={SG} target="_blank" rel="noopener noreferrer">StoryGraph</a></h4>
-                  <div
-                    className="Stars"
-                    style={{ "--rating": `${bookRating}` }}
-                    title={
-                      bookRating === "0"
-                        ? "Not yet rated"
-                        : `${bookRating} out of 5`
-                    }
-                  />
-                </div>
-                <div className="description">
-                  <div className="items">
-                    <b>@bensmom33:</b> {textB}
-                  </div>
-                  <div className="items">
-                    <b>@estr19:</b> {textE}<br></br>
-                    <i>My favorite quotes and passages from this book can be found</i> <a href={highlightsE} target="_blank" rel="noopener noreferrer"><b>here</b></a>.
-                  </div>
-                  <div className="items">
-                    <b>Tropes:</b> {tropes}
-                  </div>
-                  {/* <div className="items">
-                    <b>Additional resources:</b> {addOns}
-                  </div> */}
-                </div>
-            </div>
-          );
-        })}
+  return(
+    <div className='background'>
+      <Router>
+        <nav className='top'>
+          <Link to='/' className='link' >Home</Link>
+          <Link to='/rwrb' className='link' >RWRB</Link>
+          <Link to='/contact' className='link' >Contact Us</Link>
+        </nav>
+        <Routes>
+          <Route path='/' element={<Main />}></Route>
+          <Route path='/rwrb' element={<RWRB />}></Route>
+          <Route path='/contact' element={<ContactUs />}></Route>
+          <Route path='/home' element={<Main />}></Route>
+        </Routes>
+      </Router>
     </div>
-    </div>
-  );
+  )
 }
 
 export default App;

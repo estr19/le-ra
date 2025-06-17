@@ -43,7 +43,7 @@ export const books = [
     cover: 'https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1578640390i/48994908.jpg',
     GR: 'https://www.goodreads.com/book/show/48994908-boyfriend-material',
     SG: 'https://app.thestorygraph.com/books/b47dcd5f-827f-44f5-bda6-8e49af6f9c6e',
-    textB: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Mauris ante ligula, facilisis sed ornare eu, lobortis in odio.",
+    textB: "A poor man's Bridget Jones' Diary that sacrifices any character development on the altar of look at me I'm funny. If the author's goal was to make me hate everyone in the book, well then mission accomplished.",
     textE: "Welp, a good example of so many people ALSO raving about this one and this was not even close to being a good read. I think we hate-read it in 2 or 3 days just to get over it. Blergh!! The main character is so annoying and whiny that I wanted to throw my kindle every three pages; the side characters might as well not be there (except for the love interest's friends), and honestly the only decent character we get is main protagonist's love interest. I wanted to stage an intervention and rescue him from the main cuckoo guy. ",
     tropes: 'fake dating, modern setting',
     addOns: 'GRs, fanart, etc',
