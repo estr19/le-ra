@@ -106,10 +106,9 @@ a {
 
 .container {
   display: flex;
-  flex-direction: column;
+  flex-flow: column wrap;
   align-content: center;
   justify-content: center;
-  flex-wrap: wrap;
 }
 
 .book {
@@ -264,7 +263,47 @@ figure {
 
 /**************************************************** CONTACT US ****************************************************/
 
+.contactUs {
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
+  background-color: rgba(244, 248, 211, .65);
+  width: 35%;
+  border-radius: 2em;
+  margin: 2em 4em 0;
+  padding: 2em;
+}
 
+form {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  background-color: rgba(166, 214, 214, .65);
+  border-radius: 2em;
+  padding: 1em;
+  margin: 2em 1em 0;
+  width: 80%;
+}
+
+input, textarea {
+  background: rgba(247, 207, 216, .75);
+  color: #000000;
+  border: none;
+  border-radius: 1.25em;
+  margin: 1em 1em 0;
+  padding: .75em;
+  text-align: center;
+}
+
+#submit {
+  background-color: #6d55aa;
+  color: #F4F8D3;
+  font-family: "Acme", sans-serif;
+  font-size: 1.25em;
+  margin: 1.5em 1em 1em;
+  padding: 0 2em;
+  width: 45%;
+}
 
 /**************************************************** MAX 900px ****************************************************/
 
