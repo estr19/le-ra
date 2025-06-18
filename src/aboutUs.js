@@ -1,3 +1,6 @@
+import bensmom33pfp from './bensmom33pfp.jpg';
+import estr19pfp from './estr19pfp.jpg';
+
 import one from './estr19 books/1.jpg';
 import two from './estr19 books/2.jpg';
 import three from './estr19 books/3.jpg';
@@ -39,7 +42,7 @@ export const aboutUs = [
   {
     id: 1,
     name: 'bensmom33',
-    pfp: 'https://cdn.bsky.app/img/avatar/plain/did:plc:xor2v3uivzwkxdqs6pt6h3gs/bafkreigktnyrs7xvljaxu4fgojz5sijtsanwz6t6w5swyomczzpn227cjq@jpeg',
+    pfp: bensmom33pfp,
     text: '10 shows to get to know me (in no particular order)',
     top: [
       {
@@ -77,7 +80,7 @@ export const aboutUs = [
   {
     id: 2,
     name: 'estr19',
-    pfp: 'https://archiveofourown.org/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMkN5VGc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--02bcfefe1948473e6cc8a89c4e93950011763e04/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVdscGFUb0xiRzloWkdWeWV3WTZCbTVwK2c9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--dbfda9f6349f05dbf7e1dce388e216b2ffb49003/original.jpg',
+    pfp: estr19pfp,
     text: `20 books that have stayed with me or influenced me in no particular order. No explanations, no reviews, just covers.`,
     top: [
       {

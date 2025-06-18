@@ -1,11 +1,10 @@
 import { aboutUs } from './aboutUs';
 
-
 function MeetUs() {
   return (
-    <div className="meetUs">
-      <h1 id="meetUsH1">Meet the Princesses</h1>
-      <div className="meetUsContainer">
+    <div>
+      <h1>Meet the Princesses</h1>
+      <div className='meetUsContainer'>
         {aboutUs.map((ring) => {
           const { id, name, pfp, text, top } = ring;
           return (

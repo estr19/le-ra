@@ -10,32 +10,7 @@ body {
   padding: 0;
 }
 
-/* .meetUs {
-  background-image: linear-gradient(
-      rgba(247, 207, 216, .75),
-      rgba(166, 214, 214, .75)
-    ),
-    url("/public/rwrbbookssq.jpg");
-  background-attachment: fixed;
-  height: fit-content;
-  margin: 0;
-  padding: 0;
-} */
-
-/* #meetUsH1 {
-  color: #6d55aa;
-  font-family: "Mouse Memoirs", sans-serif;
-  font-size: 5em;
-  text-align: center;
-  margin: 0 0 .75em;
-  padding: .75em 0 0;
-} */
-
-.meetUsContainer {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around;
-}
+/**************************************************** APP.JS ****************************************************/
 
 .top {
   background-color: #6d55aa;
@@ -50,6 +25,149 @@ a.link {
   font-family: "Acme", sans-serif;
   font-size: 1.25em;
   padding: 0 2em;
+}
+
+h1 {
+  color: #6d55aa; /* 6d55aa 8E7DBE */
+  font-family: "Mouse Memoirs", sans-serif;
+  font-size: 6em;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  color: #6d55aa;
+  font-family: "Acme", sans-serif;
+  margin: .5em 0 0;
+}
+
+h3 {
+  text-align: center;
+  color: #6d55aa;
+  font-family: "Libre Baskerville", serif;
+  margin: .5em 0 0;
+}
+
+h4 {
+  text-align: center;
+  margin: .75em 0 0;
+}
+
+img {
+  float: left;
+  margin-bottom: 1em;
+  height: 15em;
+  width: auto;
+}
+
+p {
+  text-align: justify;
+  word-break: break-word;
+  font-family: "Libre Baskerville", serif;
+  color: #022e57;
+  margin: 0;
+  padding: 1em;
+}
+
+a {
+  cursor: pointer;
+  color: #6d55aa;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+/**************************************************** MAIN ****************************************************/
+
+:root {
+  --star-size: 2.25em;
+  --star-color: #ea7b93;
+  --star-background: #F4F8D3;
+}
+
+.Stars {
+  --percent: calc(var(--rating) / 5 * 100%);
+  font-size: var(--star-size);
+  width: 100%;
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+}
+
+.Stars::before {
+  content: "★★★★★";
+  background: linear-gradient(
+    90deg,
+    var(--star-color) var(--percent),
+    var(--star-background) var(--percent)
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.book {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2em 4em;
+  background-color: rgba(244, 248, 211, .65);
+  border-radius: 2em;
+}
+
+.summary {
+  flex: 1;
+  display: flex;
+  flex-flow: column;
+  background-color: rgba(166, 214, 214, .65);
+  /* width: 35%; */
+  padding: 2em;
+  margin: 2em;
+  border-radius: 2em;
+}
+
+figure {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: .25em;
+  margin: auto;
+}
+
+.description {
+  flex: 2.5;
+  display: flex;
+  flex-flow: column;
+  justify-content: space-evenly;
+  background-color: rgba(247, 207, 216, .5);
+  padding: 2em;
+  margin: 2em;
+  border-radius: 2em;
+}
+
+.items {
+  flex: 1;
+  text-align: justify;
+  text-justify: inter-word;
+  font-family: "Libre Baskerville", serif;
+  font-size: 1em;
+  color: #022e57;
+  padding: 1em;
+}
+
+/**************************************************** MEET US ****************************************************/
+
+.meetUsContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
 }
 
 .pfp {
@@ -82,138 +200,71 @@ a.link {
   margin: .5em;
 }
 
-:root {
-  --star-size: 2.25em;
-  --star-color: #ea7b93;
-  --star-background: #F4F8D3;
+/**************************************************** RWRB ****************************************************/
+
+.RWRB {
+  background-image: linear-gradient(
+      rgba(247, 207, 216, .75),
+      rgba(166, 214, 214, .75)
+    ),
+    url("/public/rwrbbookssq.jpg");
+  background-attachment: fixed;
+  height: fit-content;
+  margin: 0;
+  padding: 0 0 2em;
 }
 
-.Stars {
-  --percent: calc(var(--rating) / 5 * 100%);
-  font-size: var(--star-size);
-  width: 100%;
-  font-family: "Poppins", sans-serif;
-  text-align: center;
-}
-
-.Stars::before {
-  content: "★★★★★";
-  background: linear-gradient(
-    90deg,
-    var(--star-color) var(--percent),
-    var(--star-background) var(--percent)
-  );
-  background-clip: text;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
-
-h1 {
-  color: #6d55aa; /* 6d55aa 8E7DBE */
+#RWRBH1 {
+  color: #6d55aa;
   font-family: "Mouse Memoirs", sans-serif;
-  font-size: 6em;
+  font-size: 5em;
   text-align: center;
+  margin: 0 0 .75em;
+  padding: .75em 0 0;
 }
 
-h2 {
-  text-align: center;
-  color: #6d55aa;
-  font-family: "Acme", sans-serif;
-  margin: .5em 0 0;
-}
-
-h3 {
-  text-align: center;
-  color: #6d55aa;
-  font-family: "Libre Baskerville", serif;
-  margin: .5em 0 0;
-}
-
-h4 {
-  text-align: center;
-  margin: .75em 0 0;
-}
-
-.container {
-  display: flex;
-  flex-direction: column;
-  align-content: center;
-  justify-content: center;
-  flex-wrap: wrap;
-}
-
-.book {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin: 2em 4em;
+.conversation {
   background-color: rgba(244, 248, 211, .65);
   border-radius: 2em;
-}
-
-figure {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  padding: .25em;
-  margin: auto;
-}
-
-.summary {
-  flex: 1;
-  display: flex;
-  flex-flow: column;
-  background-color: rgba(166, 214, 214, .65);
-  /* width: 35%; */
+  margin: 2em 4em 0;
   padding: 2em;
-  margin: 2em;
-  border-radius: 2em;
 }
 
-.description {
-  flex: 2.5;
-  display: flex;
-  flex-flow: column;
-  justify-content: space-evenly;
-  background-color: rgba(247, 207, 216, .5);
-  padding: 2em;
-  margin: 2em;
-  border-radius: 2em;
-}
-
-.items {
-  flex: 1;
-  text-align: justify;
-  text-justify: inter-word;
-  font-family: "Libre Baskerville", serif;
-  font-size: 1em;
-  color: #022e57;
-  padding: 1em;
-}
-
-img {
-  float: left;
-  margin-bottom: 1em;
-  height: 15em;
+.chatImg {
+  border-radius: 50%;
+  margin: 0;
+  max-height: 50px;
   width: auto;
 }
 
-p {
-  text-align: justify;
-  word-break: break-word;
-  font-family: "Libre Baskerville", serif;
-  color: #022e57;
-  margin: 0;
-  padding: 1em;
+.chatP {
+  padding: .25em 1em 1em;
 }
 
-a {
-  cursor: pointer;
-  color: #6d55aa;
-  font-weight: 700;
-  text-decoration: none;
+.bensmom33pfp {
+  display: flex;
+  flex-direction: row;
+  background-color: rgba(166, 214, 214, .65);
+  margin: 2em;
+  padding: 1em;
+  border-radius: 2em;
+  width: 85%;
 }
+
+.estr19pfp {
+  float: right;
+  display: flex;
+  flex-direction: row-reverse;
+  background-color: rgba(247, 207, 216, .5);
+  margin: 2em;
+  padding: 1em;
+  border-radius: 2em;
+  width: 85%;
+}
+
+/**************************************************** CONTACT US ****************************************************/
+
+
 
 /**************************************************** MAX 900px ****************************************************/
 
