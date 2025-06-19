@@ -9,7 +9,7 @@ function RWRB() {
           const { id, name, pfp, message } = chat;
           return (
             <div className={`${name}pfp`} key={id}>
-              <img className='chatImg' src={pfp} alt={name} />
+              <img className={`${name}Img`} src={pfp} alt={name} />
               <p className='chatP'>{message}</p>
             </div>
           );
