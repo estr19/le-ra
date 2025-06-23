@@ -79,9 +79,9 @@ a {
 /**************************************************** MAIN ****************************************************/
 
 :root {
-  --star-size: 2.25em;
-  --star-color: #ea7b93;
-  --star-background: #F4F8D3;
+  --star-size: 2em;
+  --star-color: rgba(247, 207, 216, .75);
+  --star-background: rgba(166, 214, 214, .75);
 }
 
 .Stars {
@@ -93,7 +93,7 @@ a {
 }
 
 .Stars::before {
-  content: "★★★★★";
+  content: "💏🛏️🏇🎤🎾";
   background: linear-gradient(
     90deg,
     var(--star-color) var(--percent),
@@ -101,7 +101,7 @@ a {
   );
   background-clip: text;
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  /* -webkit-text-fill-color: transparent; */
 }
 
 .container {
@@ -273,6 +273,11 @@ figure {
 
 /**************************************************** CONTACT US ****************************************************/
 
+body {
+  display: flex;
+  flex-direction: column;
+}
+
 .contactUs {
   display: flex;
   flex-flow: column wrap;
@@ -320,8 +325,8 @@ input, textarea {
 @media all and (max-width: 900px) {
   body {
     display: flex;
-    justify-content: center;
     flex-direction: column;
+    justify-content: center;
   }
 
   .meetUsContainer {
