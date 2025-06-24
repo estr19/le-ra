@@ -18,8 +18,8 @@ function Main() {
                   <h3>{author}</h3>
                   <h4><a href={GR} target='_blank' rel='noopener noreferrer'>Goodreads</a> | <a href={SG} target='_blank' rel='noopener noreferrer'>StoryGraph</a></h4>
                   <div
-                    className='Stars'
-                    style={{ '--rating': `${bookRating}` }}
+                    className='emoji'
+                    style={{ '--rating': `${bookRating}`}}
                     title={
                       bookRating === '0'
                         ? 'Not yet rated'

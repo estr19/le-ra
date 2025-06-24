@@ -4,7 +4,10 @@ body {
       rgba(166, 214, 214, .75)
     ),
     url("/public/ipe300.jpg");
-  /* background-color: #171d2d; */
+  background-color: linear-gradient(
+      rgba(247, 207, 216, .75),
+      rgba(166, 214, 214, .75)
+    );
   background-attachment: fixed;
   margin: 0;
   padding: 0;
@@ -28,7 +31,7 @@ a.link {
 }
 
 h1 {
-  color: #6d55aa; /* 6d55aa 8E7DBE */
+  color: #6d55aa;
   font-family: "Mouse Memoirs", sans-serif;
   font-size: 6em;
   text-align: center;
@@ -79,29 +82,28 @@ a {
 /**************************************************** MAIN ****************************************************/
 
 :root {
-  --star-size: 2em;
-  --star-color: rgba(247, 207, 216, .75);
-  --star-background: rgba(166, 214, 214, .75);
+  --star-color: rgba(244, 248, 211, 0);
+  --star-background: rgba(247, 207, 216, .75);
 }
 
-.Stars {
+.emoji {
   --percent: calc(var(--rating) / 5 * 100%);
-  font-size: var(--star-size);
-  width: 100%;
-  font-family: "Poppins", sans-serif;
-  text-align: center;
+  width: 15em;
 }
 
-.Stars::before {
-  content: "💏🛏️🏇🎤🎾";
-  background: linear-gradient(
+.emoji::before {
+  content: '';
+  display: block;
+  height: 2.5em;
+  width: 15em;
+  background-image: linear-gradient(
     90deg,
     var(--star-color) var(--percent),
     var(--star-background) var(--percent)
-  );
-  background-clip: text;
-  -webkit-background-clip: text;
-  /* -webkit-text-fill-color: transparent; */
+    ),
+    url("/src/scale.png");
+  background-repeat: no-repeat;
+  background-position: center center;
 }
 
 .container {
