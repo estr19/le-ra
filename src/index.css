@@ -83,19 +83,20 @@ a {
 
 :root {
   --star-color: rgba(244, 248, 211, 0);
-  --star-background: rgba(247, 207, 216, .75);
+  --star-background: rgba(166, 214, 214, .85); /*rgba(247, 207, 216, .75);*/
 }
 
 .emoji {
   --percent: calc(var(--rating) / 5 * 100%);
   width: 15em;
+  margin: .5em 0 0;
 }
 
 .emoji::before {
   content: '';
   display: block;
   height: 2.5em;
-  width: 15em;
+  width: auto;
   background-image: linear-gradient(
     90deg,
     var(--star-color) var(--percent),
@@ -104,6 +105,7 @@ a {
     url("/src/scale.png");
   background-repeat: no-repeat;
   background-position: center center;
+  background-size: contain;
 }
 
 .container {
@@ -126,6 +128,7 @@ a {
   flex: 1;
   display: flex;
   flex-flow: column;
+  align-items: center;
   background-color: rgba(166, 214, 214, .65);
   /* width: 35%; */
   padding: 2em;
