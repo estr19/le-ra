@@ -251,8 +251,19 @@ figure {
 }
 
 .chatP {
+  text-indent: 2em;
+  white-space: pre-line;
   margin: .3em;
   padding: .25em 1em 1em;
+}
+
+.quoteHeader {
+  text-align: left;
+  margin-left: 1.5em;
+}
+
+span {
+  background-color: rgba(250, 252, 233, .65);
 }
 
 .bensmom33pfp {

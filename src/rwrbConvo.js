@@ -6,52 +6,62 @@ export const rwrbConvo = [
     id: 1,
     name: 'bensmom33',
     pfp: bensmom33pfp,
-    message: `The first is for amazing foreshadowing: notice he does not say he won't have an international incident. The second for using Rich Girl so that the other side of the album is London Luck & Love. "“Well, you don't have to like him, you just have to put on a happy face and not cause an international incident at his brother's wedding.” “Bug, when do I ever not put on a happy face?” Alex says. He pulls a painfully fake grin, and June looks satisfyingly repulsed."
-    "Outside his window, the wind stirs up over the lawn, rustling the linden trees down in the garden. The record on the turntable in the corner has spun out into fuzzy silence. He rolls off the bed and flips it, resetting the needle, and the second side picks up on “London Luck, & Love.”"`,
+    message: `The first is for amazing foreshadowing: notice he does not say he won't have an international incident: <span>"“Well, you don't have to like him, you just have to put on a happy face and not cause an international incident at his brother's wedding.” “Bug, when do I ever not put on a happy face?” Alex says. He pulls a painfully fake grin, and June looks satisfyingly repulsed."</span>
+
+    The second for using Rich Girl so that the other side of the album is London Luck & Love: <span>"Outside his window, the wind stirs up over the lawn, rustling the linden trees down in the garden. The record on the turntable in the corner has spun out into fuzzy silence. He rolls off the bed and flips it, resetting the needle, and the second side picks up on “London Luck, & Love.”"</span>`,
   },
   {
     id: 2,
     name: 'bensmom33',
     pfp: bensmom33pfp,
-    message: `Once again I have 2 submissions. The first, following the music theme, the inclusion of Patsy Cline, a line from Crazy - "crazy for thinking my love could hold you"; and the second for launching a thousand fics with these HC. "They settle into their usual places: June, perched on her heels at the record collection, foraging for some Patsy Cline; Nora, cross-legged on the floor, uncorking a bottle of red wine; Alex, sitting upside down with his feet on the back of the couch, trying to figure out what he's going to do next."
-    "“Allergies: dust, Tide laundry detergent, and shutting the fuck up.” “Age of first filibuster: nine, at SeaWorld San Antonio, trying to force an orca wrangler into early retirement for, quote, 'inhumane whale practices.'”"`,
+    message: `Once again I have 2 submissions. The first, following the music theme, the inclusion of Patsy Cline, a line from Crazy - "crazy for thinking my love could hold you": <span>"They settle into their usual places: June, perched on her heels at the record collection, foraging for some Patsy Cline; Nora, cross-legged on the floor, uncorking a bottle of red wine; Alex, sitting upside down with his feet on the back of the couch, trying to figure out what he's going to do next."</span>
+
+    And the second for launching a thousand fics with these HC: <span>"“Allergies: dust, Tide laundry detergent, and shutting the fuck up.” “Age of first filibuster: nine, at SeaWorld San Antonio, trying to force an orca wrangler into early retirement for, quote, 'inhumane whale practices.'”"</span>`,
   },
   {
     id: 3,
     name: 'bensmom33',
     pfp: bensmom33pfp,
-    message: `First one, love Alex's description of Raf and which Muddy Waters song was he listening to? Baby, Please Don't Go? "He finds Luna in his office, horn-rimmed reading glasses doing nothing to detract from his usual appearance of a movie star who tripped and fell sideways into politics. Alex has always suspected the soulful brown eyes and perfectly groomed stubble and dramatic cheekbones won back any votes Luna lost by being both Latino and openly gay. The album playing low in the room is an old favorite Alex remembers from Denver: Muddy Waters. When Luna looks up and sees Alex in his doorway, he drops his pen on a haphazard pile of papers and leans back in his chair."
-    Second one is because one day I'm going to write this pre-canon fic."He finds Luna in his office, horn-rimmed reading glasses doing nothing to detract from his usual appearance of a movie star who tripped and fell sideways into politics. Alex has always suspected the soulful brown eyes and perfectly groomed stubble and dramatic cheekbones won back any votes Luna lost by being both Latino and openly gay. The album playing low in the room is an old favorite Alex remembers from Denver: Muddy Waters. When Luna looks up and sees Alex in his doorway, he drops his pen on a haphazard pile of papers and leans back in his chair."`,
+    message: `First one, love Alex's description of Raf and which Muddy Waters song was he listening to? Baby, Please Don't Go? <span>"He finds Luna in his office, horn-rimmed reading glasses doing nothing to detract from his usual appearance of a movie star who tripped and fell sideways into politics. Alex has always suspected the soulful brown eyes and perfectly groomed stubble and dramatic cheekbones won back any votes Luna lost by being both Latino and openly gay. The album playing low in the room is an old favorite Alex remembers from Denver: Muddy Waters. When Luna looks up and sees Alex in his doorway, he drops his pen on a haphazard pile of papers and leans back in his chair."</span>
+    
+    Second one is because one day I'm going to write this pre-canon fic": <span>""He finds Luna in his office, horn-rimmed reading glasses doing nothing to detract from his usual appearance of a movie star who tripped and fell sideways into politics. Alex has always suspected the soulful brown eyes and perfectly groomed stubble and dramatic cheekbones won back any votes Luna lost by being both Latino and openly gay. The album playing low in the room is an old favorite Alex remembers from Denver: Muddy Waters. When Luna looks up and sees Alex in his doorway, he drops his pen on a haphazard pile of papers and leans back in his chair."</span>`,
   },
   {
     id: 4,
     name: 'bensmom33',
     pfp: bensmom33pfp,
-    message: `Obviously a lot happened in this chapter. The first selection surprised me as to the breadth of Henry's pop culture knowledge. "“Alex,” Henry says firmly. “What?” “The turkeys are not going to Jurassic Park you,” he says. “You're not the bloke from Seinfeld. You're Jeff Goldblum. Go to sleep.”"
-    The second was my aww, Henry just gets Alex moment. "He doesn't realize he's been talking for an hour until he finishes retelling what happened at dinner and Henry says, “It sounds like you did your best.” Alex forgets what he was going to say next. He just… Well, he gets told he's great a lot. He just doesn't often get told he's good enough."`,
+    message: `Obviously a lot happened in this chapter. The first selection surprised me as to the breadth of Henry's pop culture knowledge: <span>"“Alex,” Henry says firmly. “What?” “The turkeys are not going to Jurassic Park you,” he says. “You're not the bloke from Seinfeld. You're Jeff Goldblum. Go to sleep.”"</span>
+
+    The second was my aww, Henry just gets Alex moment: <span>"He doesn't realize he's been talking for an hour until he finishes retelling what happened at dinner and Henry says, “It sounds like you did your best.” Alex forgets what he was going to say next. He just… Well, he gets told he's great a lot. He just doesn't often get told he's good enough."</span>`,
   },
   {
     id: 5,
     name: 'bensmom33',
     pfp: bensmom33pfp,
-    message: `Short one but two postings that launched a thousand fics: the first, Henry's notable shoulder to waist ratio "He thinks about Henry's voice low in his ear over the phone at three in the morning, and suddenly he has a name for what ignites in the pit of his stomach. Henry's hands on him, his thumbs braced against his temples back in the garden, Henry's hands other places, Henry's mouth, what he might do with it if Alex let him. Henry's broad shoulders and long legs and narrow waist, the place his jaw meets his neck and the place his neck meets his shoulder and the tendon that stretches the length between them, and the way it looks when Henry turns his head to shoot him a challenging glare, and his impossibly blue eyes—"
-    and the second, everyone's favorite character to hate on - WASPy Hunter. "Which is how he finds himself out of breath on a Monday afternoon after class, following a staffer who's managed to surpass even him in the caffeination department, on a breakneck tour of the campaign offices. He gets a badge with his name and photo on it, a desk in a shared cubicle, and a WASPy cubicle mate from Boston named Hunter with an extremely punchable face."`,
+    message: `Short one but two postings that launched a thousand fics: the first, Henry's notable shoulder to waist ratio: "He thinks about Henry's voice low in his ear over the phone at three in the morning, and suddenly he has a name for what ignites in the pit of his stomach. Henry's hands on him, his thumbs braced against his temples back in the garden, Henry's hands other places, Henry's mouth, what he might do with it if Alex let him. Henry's broad shoulders and long legs and narrow waist, the place his jaw meets his neck and the place his neck meets his shoulder and the tendon that stretches the length between them, and the way it looks when Henry turns his head to shoot him a challenging glare, and his impossibly blue eyes—"
+
+    And the second, everyone's favorite character to hate on - WASPy Hunter: "Which is how he finds himself out of breath on a Monday afternoon after class, following a staffer who's managed to surpass even him in the caffeination department, on a breakneck tour of the campaign offices. He gets a badge with his name and photo on it, a desk in a shared cubicle, and a WASPy cubicle mate from Boston named Hunter with an extremely punchable face."`,
   },
   {
     id: 6,
     name: 'bensmom33',
     pfp: bensmom33pfp,
-    message: `I have 3 selections today. The first two because of iconic lines and the third for reasons... "“Shut up, shut all the way up, oh my God,” Alex hisses, and if he weren't already hell-bent on destroying Henry's infuriating idiot face with his mouth right now, he would consider doing it with his fist. He's focused on the burst of adrenaline carrying his feet over the antique rug, Henry's tie wrapped around his fist, the flash in Henry's eyes. He reaches the nearest wall, shoves Henry against it, and crushes their mouths together."
+    message: `I have 3 selections today. The first two because of iconic lines and the third for reasons...
+    "“Shut up, shut all the way up, oh my God,” Alex hisses, and if he weren't already hell-bent on destroying Henry's infuriating idiot face with his mouth right now, he would consider doing it with his fist. He's focused on the burst of adrenaline carrying his feet over the antique rug, Henry's tie wrapped around his fist, the flash in Henry's eyes. He reaches the nearest wall, shoves Henry against it, and crushes their mouths together."
+
     "Turns out being on the receiving end of Henry's royal authority is an extreme fucking turn-on. He thinks, as he's hauled into a bruising kiss, that he'll never forgive himself for it. So, like, fuck the moors."
+
     "“Dude, people are writing fan fiction about y'all—” “Yeah, Nora sent me that.” “—I think you can give it a rest.”"`,
   },
   {
     id: 7,
     name: 'bensmom33',
     pfp: bensmom33pfp,
-    message: `Narrowed down to 3 selections, the first because it shows that Alex understands and loves every part of Henry, the second because it's a rare example where the movie dialogue improved upon the book and lastly June saying what we all are thinking. "Henry hates those days completely. Alex wishes he could help, but he doesn't particularly mind. He's just as attracted to Henry's cloudy tempers, the way he comes back from them, and the millions of shades in between."
-    "“The official family name is Mountchristen-Windsor,” Henry says. “Hyphenate, like yours. So my full name is… Henry George Edward James Fox-Mountchristen-Windsor.” Alex gapes up at the ceiling. “Oh… my God.” “Truly.” “I thought Alexander Gabriel Claremont-Diaz was bad.”"
-    "June makes a strangled noise, and when he looks back up, she's digging through the top drawer of her dresser. “Oh my God, how are you so smart and so dumb at the same time?” she says, pulling a magazine out from underneath her underwear. He's about to tell her he's not in the mood to look at her tabloids when she throws it at him. An ancient issue of J14, opened to a center page. The photograph of Henry, age thirteen."`,
+    message: `Narrowed down to 3 selections, the first because it shows that Alex understands and loves every part of Henry: "Henry hates those days completely. Alex wishes he could help, but he doesn't particularly mind. He's just as attracted to Henry's cloudy tempers, the way he comes back from them, and the millions of shades in between."
+
+    The second because it's a rare example where the movie dialogue improved upon the book: "“The official family name is Mountchristen-Windsor,” Henry says. “Hyphenate, like yours. So my full name is… Henry George Edward James Fox-Mountchristen-Windsor.” Alex gapes up at the ceiling. “Oh… my God.” “Truly.” “I thought Alexander Gabriel Claremont-Diaz was bad.”"
+
+    And lastly June saying what we all are thinking: "June makes a strangled noise, and when he looks back up, she's digging through the top drawer of her dresser. “Oh my God, how are you so smart and so dumb at the same time?” she says, pulling a magazine out from underneath her underwear. He's about to tell her he's not in the mood to look at her tabloids when she throws it at him. An ancient issue of J14, opened to a center page. The photograph of Henry, age thirteen."`,
   },
   {
     id: 8,

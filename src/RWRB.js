@@ -10,7 +10,10 @@ function RWRB() {
           return (
             <div className={`${name}pfp`} key={id}>
               <img className={`${name}Img`} src={pfp} alt={name} />
-              <p className='chatP'>{message}</p>
+              <div className='chapterNotes'>
+                <h3 className='quoteHeader'>Chapter {id}</h3>
+                <p dangerouslySetInnerHTML={{__html: message }} className='chatP'></p>
+              </div>
             </div>
           );
         })}
