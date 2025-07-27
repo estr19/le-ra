@@ -3,7 +3,7 @@ import { rwrbConvo } from './rwrbConvo';
 function RWRB() {
   return (
     <div className='RWRB'>
-      <h1 id='RWRBH1'>Red White and Royal Blue</h1>
+      <h1 id='RWRBH1'>Red White & Royal Blue - Noted</h1>
       <div className='conversation'>
         {rwrbConvo.map((chat) => {
           const { id, name, pfp, message } = chat;
