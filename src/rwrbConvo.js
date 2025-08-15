@@ -1,17 +1,30 @@
 import bensmom33pfp from './bensmom33pfp.jpg';
-// import estr19pfp from './estr19pfp.jpg';
+import estr19pfp from './estr19pfp.jpg';
 
 export const rwrbConvo = [
   {
     id: 1,
+    chapter: 1,
     name: 'bensmom33',
     pfp: bensmom33pfp,
-    message: `The first is for amazing foreshadowing: notice he does not say he won't have an international incident: <span>"“Well, you don't have to like him, you just have to put on a happy face and not cause an international incident at his brother's wedding.” “Bug, when do I ever not put on a happy face?” Alex says. He pulls a painfully fake grin, and June looks satisfyingly repulsed."</span>
+    message: `The first is for amazing foreshadowing: notice he does not say he won't have an international incident: <span>“Well, you don't have to like him, you just have to put on a happy face and not cause an international incident at his brother's wedding.” “Bug, when do I ever not put on a happy face?” Alex says. He pulls a painfully fake grin, and June looks satisfyingly repulsed.</span>
 
-    The second for using Rich Girl so that the other side of the album is London Luck & Love: <span>"Outside his window, the wind stirs up over the lawn, rustling the linden trees down in the garden. The record on the turntable in the corner has spun out into fuzzy silence. He rolls off the bed and flips it, resetting the needle, and the second side picks up on “London Luck, & Love.”"</span>`,
+    The second for using Rich Girl so that the other side of the album is London Luck & Love: <span>Outside his window, the wind stirs up over the lawn, rustling the linden trees down in the garden. The record on the turntable in the corner has spun out into fuzzy silence. He rolls off the bed and flips it, resetting the needle, and the second side picks up on “London Luck, & Love.”</span>`,
+  },
+  {
+    id: 1.5,
+    chapter: 1,
+    name: 'estr19',
+    pfp: estr19pfp,
+    message: `A first glimpse of how much Alex puts into appearances (and mirroring Henry mind you!!): <span>He's not going to be the youngest elected congressman in modern history without earning it, but nobody needs to know how hard he's kicking underwater. His sex-symbol stock would plummet.</span>
+
+    The second quote shows how much of a romantic Alex is despite what happened to his parents: <span>It's just that Martha is a perfectly respectable daughter of nobility, and Philip is a prince. It's as sexy as a business transaction. There's no passion, no drama. Alex's kind of love story is much more Shakespearean.</span>
+
+    #priorities 🤣🤣 <span>For a second, all he can think as he stares up at the ceiling while covered in frosting and champagne is that at least Henry's dance with June won't be the biggest story to come out of the royal wedding.</span>`,
   },
   {
     id: 2,
+    chapter: 2,
     name: 'bensmom33',
     pfp: bensmom33pfp,
     message: `Once again I have 2 submissions. The first, following the music theme, the inclusion of Patsy Cline, a line from Crazy - "crazy for thinking my love could hold you": <span>"They settle into their usual places: June, perched on her heels at the record collection, foraging for some Patsy Cline; Nora, cross-legged on the floor, uncorking a bottle of red wine; Alex, sitting upside down with his feet on the back of the couch, trying to figure out what he's going to do next."</span>
@@ -19,7 +32,21 @@ export const rwrbConvo = [
     And the second for launching a thousand fics with these HC: <span>"“Allergies: dust, Tide laundry detergent, and shutting the fuck up.” “Age of first filibuster: nine, at SeaWorld San Antonio, trying to force an orca wrangler into early retirement for, quote, 'inhumane whale practices.'”"</span>`,
   },
   {
+    id: 2.5,
+    chapter: 2,
+    name: 'estr19',
+    pfp: estr19pfp,
+    message: `And here's the callback already: <span>“Sworn enemies forced to make peace to settle tensions between their countries? There's something totally Shakespearean about it.”</span>
+
+    Love this glimpse into Alex's drive/reasons: <span>Alex's whole reason for wanting to go into politics, when he knows so many past presidential sons and daughters have run away screaming the minute they turned eighteen, is he genuinely cares about people. The power is great, the attention fun, but the people—the people are everything. He has a bit of a caring-too-much problem about most things, including whether people can pay their medical bills, or marry whomever they love, or not get shot at school.</span>
+
+    One of the things I really missed in the movie, which stripped Alex of an important layer 😭😭: <span>“I don't know. Doing what we do is fucking hard. But it's harder for me. I'm the son of the first female president. And I'm not white like she is, can't even pass for it. People will always come down harder on me. And you're, you know, you, and you were born into all of this, and everyone thinks you're Prince fucking Charming. You're basically a living reminder I'll always be compared to someone else, no matter what I do, even if I work twice as hard.”</span>
+    
+    LOVE Star Wars references!!! Also a first look at the real Henry: <span>“Hmm,” Henry says, making a show of thinking hard. “I always liked Luke. He's brave and good, and he's the strongest Jedi of them all. I think Luke is proof that it doesn't matter where you come from or who your family is—you can always be great if you're true to yourself.”</span>`,
+  },
+  {
     id: 3,
+    chapter: 3,
     name: 'bensmom33',
     pfp: bensmom33pfp,
     message: `First one, love Alex's description of Raf and which Muddy Waters song was he listening to? Baby, Please Don't Go? <span>"He finds Luna in his office, horn-rimmed reading glasses doing nothing to detract from his usual appearance of a movie star who tripped and fell sideways into politics. Alex has always suspected the soulful brown eyes and perfectly groomed stubble and dramatic cheekbones won back any votes Luna lost by being both Latino and openly gay. The album playing low in the room is an old favorite Alex remembers from Denver: Muddy Waters. When Luna looks up and sees Alex in his doorway, he drops his pen on a haphazard pile of papers and leans back in his chair."</span>
@@ -27,7 +54,21 @@ export const rwrbConvo = [
     Second one is because one day I'm going to write this pre-canon fic": <span>""He finds Luna in his office, horn-rimmed reading glasses doing nothing to detract from his usual appearance of a movie star who tripped and fell sideways into politics. Alex has always suspected the soulful brown eyes and perfectly groomed stubble and dramatic cheekbones won back any votes Luna lost by being both Latino and openly gay. The album playing low in the room is an old favorite Alex remembers from Denver: Muddy Waters. When Luna looks up and sees Alex in his doorway, he drops his pen on a haphazard pile of papers and leans back in his chair."</span>`,
   },
   {
+    id: 3.5,
+    chapter: 3,
+    name: 'estr19',
+    pfp: estr19pfp,
+    message: `Raf clocking Alex's hopeless bi ass but also trying to give him valuable advice: <span>“Instead, let's talk about your little European vacation,” Luna says. He fixes Alex with shrewd eyes. “Can I expect a joint Christmas present from you and the prince this year?” <...> “Alex, you need other friends,” Luna tells him. “Friends who aren't in Congress.” “I have friends! I have June and Nora.” “Yes, your sister and a girl who is also a supercomputer,” Luna deadpans. “You need to take some time for yourself before you burn out, kid. You need a bigger support system.”</span>
+
+    Ellen using kids for her campaign while disregarding their thoughts about it (mostly June): <span>His mom pretends to be annoyed but slyly asks for intel later. <...>“Baby girl,” their mom says. She's got that look on her face she gets when she's saying something with a fifty-fifty chance of pissing you off. “You're so talented, and I know you work hard, but at some point, you have to be realistic.”</span>
+
+    The beginning of texts and banter (MY ABSOLUTE FAVE!!💖💖) while discovering Henry's hidden depths and choosing not to filter himself (I think subconsciously Alex just wants to let go of the perfect FSOTUS mask he puts on everyday): <span>He knows he talks too much, hopeless at moderating his feelings, which he usually hides under ten layers of charm, but he ultimately doesn't care what Henry thinks of him, so he doesn't bother. Instead, he's as weird and manic as he wants to be, and Henry jabs back in sharp flashes of startling wit.</span>
+    
+    ...and more bi-clocking (his hopeless crush on Shaan 🤭): <span>oh, definitely worth it. even more worth it now. tell shaan i say hi and i miss that sweet sweet ass xoxoxo</span>`,
+  },
+  {
     id: 4,
+    chapter: 4,
     name: 'bensmom33',
     pfp: bensmom33pfp,
     message: `Obviously a lot happened in this chapter. The first selection surprised me as to the breadth of Henry's pop culture knowledge: <span>"“Alex,” Henry says firmly. “What?” “The turkeys are not going to Jurassic Park you,” he says. “You're not the bloke from Seinfeld. You're Jeff Goldblum. Go to sleep.”"</span>
@@ -36,6 +77,7 @@ export const rwrbConvo = [
   },
   {
     id: 5,
+    chapter: 5,
     name: 'bensmom33',
     pfp: bensmom33pfp,
     message: `Short one but two postings that launched a thousand fics: the first, Henry's notable shoulder to waist ratio: <span>"He thinks about Henry's voice low in his ear over the phone at three in the morning, and suddenly he has a name for what ignites in the pit of his stomach. Henry's hands on him, his thumbs braced against his temples back in the garden, Henry's hands other places, Henry's mouth, what he might do with it if Alex let him. Henry's broad shoulders and long legs and narrow waist, the place his jaw meets his neck and the place his neck meets his shoulder and the tendon that stretches the length between them, and the way it looks when Henry turns his head to shoot him a challenging glare, and his impossibly blue eyes—"</span>
@@ -44,6 +86,7 @@ export const rwrbConvo = [
   },
   {
     id: 6,
+    chapter: 6,
     name: 'bensmom33',
     pfp: bensmom33pfp,
     message: `I have 3 selections today. The first two because of iconic lines and the third for reasons...
@@ -55,6 +98,7 @@ export const rwrbConvo = [
   },
   {
     id: 7,
+    chapter: 7,
     name: 'bensmom33',
     pfp: bensmom33pfp,
     message: `Narrowed down to 3 selections, the first because it shows that Alex understands and loves every part of Henry: <span>"Henry hates those days completely. Alex wishes he could help, but he doesn't particularly mind. He's just as attracted to Henry's cloudy tempers, the way he comes back from them, and the millions of shades in between."</span>
@@ -65,6 +109,7 @@ export const rwrbConvo = [
   },
   {
     id: 8,
+    chapter: 8,
     name: 'bensmom33',
     pfp: bensmom33pfp,
     message: `Four this time because they are all amazing and I could have had more so be glad it's just four!
@@ -75,6 +120,7 @@ export const rwrbConvo = [
   },
   {
     id: 9,
+    chapter: 9,
     name: 'bensmom33',
     pfp: bensmom33pfp,
     message: `There are so many iconic lines in this chapter but I chose 3 less discussed: 1. Ellen and her PowerPoint slide titles: <span>"The next slide is titled: EXPLORING YOUR SEXUALITY: HEALTHY, BUT DOES IT HAVE TO BE WITH THE PRINCE OF ENGLAND? She apologizes for not having time to come up with better titles. Alex actively wishes for the sweet release of death. The one after is: FEDERAL FUNDING, TRAVEL EXPENSES, BOOTY CALLS, AND YOU."</span>
@@ -83,6 +129,7 @@ export const rwrbConvo = [
   },
   {
     id: 10,
+    chapter: 10,
     name: 'bensmom33',
     pfp: bensmom33pfp,
     message: `I present to you an anatomy of a scene: rising action, climax, falling action, and resolution.
@@ -96,6 +143,7 @@ export const rwrbConvo = [
   },
   {
     id: 11,
+    chapter: 11,
     name: 'bensmom33',
     pfp: bensmom33pfp,
     message: `I did not realize how short this chapter was but it still has so many memorable things - their first meeting retelling, the list. Here are three of my favorites:
@@ -105,6 +153,7 @@ export const rwrbConvo = [
   },
   {
     id: 12,
+    chapter: 12,
     name: 'bensmom33',
     pfp: bensmom33pfp,
     message: `I selected the first two because Alex comments on the Solange elevator incident without realizing the irony of June's protection of him, the confession to Raf, and one of my favorite Zahra lines.
@@ -115,6 +164,7 @@ export const rwrbConvo = [
   },
   {
     id: 13,
+    chapter: 13,
     name: 'bensmom33',
     pfp: bensmom33pfp,
     message: `I almost went with the supportive women in this chapter who stepped up to protect their boys: Ellen, June, Zahra, Bea. But instead I went with this trio of quotes.
@@ -124,6 +174,7 @@ export const rwrbConvo = [
   },
   {
     id: 14,
+    chapter: 14,
     name: 'bensmom33',
     pfp: bensmom33pfp,
     message: `Happy birthday you wonderful pink book. Selection 1 - June is all of us, Selection 2 - Nora, certified bad ass, and Selection 3 - Ellen, bad ass in chief:
@@ -133,6 +184,7 @@ export const rwrbConvo = [
   },
   {
     id: 15,
+    chapter: 15,
     name: 'bensmom33',
     pfp: bensmom33pfp,
     message: `I can't believe we are at the end. Here are my final 4: Philip, the redemption tour, Alex and the jacket symbolism, poor Henry learning more about the US, and Alex making sure Henry knows he is part of the family.
