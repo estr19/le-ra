@@ -64,7 +64,7 @@ export const rwrbConvo = [
 
     The beginning of texts and banter (MY ABSOLUTE FAVE!!💖💖) while discovering Henry's hidden depths and choosing not to filter himself (I think subconsciously Alex just wants to let go of the perfect FSOTUS mask he puts on everyday): <span>He knows he talks too much, hopeless at moderating his feelings, which he usually hides under ten layers of charm, but he ultimately doesn't care what Henry thinks of him, so he doesn't bother. Instead, he's as weird and manic as he wants to be, and Henry jabs back in sharp flashes of startling wit.</span>
     
-    ...and more bi-clocking (his hopeless crush on Shaan 🤭): <span>oh, definitely worth it. even more worth it now. tell shaan i say hi and i miss that sweet sweet ass xoxoxo</span>`,
+    ...and more bi-clocking (his ill-defined crush on Shaan 🤭): <span>oh, definitely worth it. even more worth it now. tell shaan i say hi and i miss that sweet sweet ass xoxoxo</span>`,
   },
   {
     id: 4,
@@ -76,6 +76,19 @@ export const rwrbConvo = [
     The second was my aww, Henry just gets Alex moment: <span>"He doesn't realize he's been talking for an hour until he finishes retelling what happened at dinner and Henry says, “It sounds like you did your best.” Alex forgets what he was going to say next. He just… Well, he gets told he's great a lot. He just doesn't often get told he's good enough."</span>`,
   },
   {
+    id: 4.5,
+    chapter: 4,
+    name: 'estr19',
+    pfp: estr19pfp,
+    message: `Henry totally messing with Alex is HYSTERICAL: <span>“Right, now hold it,” Henry says. “Connect with the turkey, earn the turkey's trust... befriend the turkey...” “Okay...” “Buy a summer home in Majorca with the turkey...”</span>
+
+    Calling Alex (but I don't think June, just Alex 🤔) by the last name of the other parent when they're not happy with him is fucking CRUEL and hurtful on so many levels 😒😒😒: <span>They still do. When he runs his mouth off to the press, his mom calls him into her office and says, “Get your shit together, Diaz.” When his hard-headedness gets him stuck, his dad texts him, “Let it go, Claremont.”</span>
+
+    Henry cutting through the Xmas dinner blowup which renders Alex speechless (and that's saying something!!): <span>Henry says, “It sounds like you did your best.” Alex forgets what he was going to say next. He just... Well, he gets told he's great a lot. He just doesn't often get told he's good enough.</span>
+    
+    Alex seeing in person how Pez absorbs the spotlight and Alex thinking to himself how he can shoulder some of the weight for Henry: <span>He watches them disappear into the crowd, Pez a blazing streak of color, already spinning June in a pirouette as they go. Henry's smile has gone sheepish and reserved, and Alex understands their friendship at last. Henry doesn't want the spotlight, and Pez naturally absorbs what Henry deflects.</span>`,
+  },
+  {
     id: 5,
     chapter: 5,
     name: 'bensmom33',
@@ -83,6 +96,19 @@ export const rwrbConvo = [
     message: `Short one but two postings that launched a thousand fics: the first, Henry's notable shoulder to waist ratio: <span>"He thinks about Henry's voice low in his ear over the phone at three in the morning, and suddenly he has a name for what ignites in the pit of his stomach. Henry's hands on him, his thumbs braced against his temples back in the garden, Henry's hands other places, Henry's mouth, what he might do with it if Alex let him. Henry's broad shoulders and long legs and narrow waist, the place his jaw meets his neck and the place his neck meets his shoulder and the tendon that stretches the length between them, and the way it looks when Henry turns his head to shoot him a challenging glare, and his impossibly blue eyes—"</span>
 
     And the second, everyone's favorite character to hate on - WASPy Hunter: <span>"Which is how he finds himself out of breath on a Monday afternoon after class, following a staffer who's managed to surpass even him in the caffeination department, on a breakneck tour of the campaign offices. He gets a badge with his name and photo on it, a desk in a shared cubicle, and a WASPy cubicle mate from Boston named Hunter with an extremely punchable face."</span>`,
+  },
+  {
+    id: 5.5,
+    chapter: 5,
+    name: 'estr19',
+    pfp: estr19pfp,
+    message: `The bi-spiral chapter, but written so brilliantly!! <span>They're rounding the corner for their eighth lap now, and he's starting to see some flaws in his logic. Straight people, he thinks, probably don't spend this much time convincing themselves they're straight.</span>
+
+    Another excerpt that shows how much Alex carries and how it weighs on him: <span>But Alex is the golden boy. The heartthrob, the handsome rogue with a heart of gold. The guy who moves through life effortlessly, who makes everyone laugh. Highest approval ratings of the entire First Family. The whole point of him is that his appeal is as universal as possible. Being... whatever he's starting to suspect he might be, is definitely not universally appealing to voters. He has a hard enough time being half-Mexican.</span>
+
+    An underrated Nora line: <span>“I fucking knew it,” she says. “Still waters, deep dicking.”</span>
+    
+    Love how Casey wrote Alex's [freight] train of thought here and in this chapter, it helped me understand the character much better: <span>There's a short article accompanying the photos that gives the girl's name, Emily something, an actress, and Alex was generally pissed before, but now he's very singularly pissed, his entire shitty mood funneled down to the point on the page where Henry's lips touch somebody's skin that's not his. <...> Faintly, under it all, it occurs to him: This is all a very not-straight way to react to seeing your male frenemy kissing someone else in a magazine.</span>`,
   },
   {
     id: 6,
