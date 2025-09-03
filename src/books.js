@@ -1,5 +1,19 @@
 export const books = [
   {
+    id: 8,
+    name: `Heated Rivalry`,
+    author: 'Rachel Reid',
+    bookRating: '5',
+    cover: 'https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1730184314i/220966494.jpg',
+    GR: 'https://www.goodreads.com/book/show/220966494-heated-rivalry',
+    SG: 'https://app.thestorygraph.com/books/c3349f20-b3a0-4894-9d79-0ffa7600c629',
+    textB: "Donec et mi sagittis, porttitor massa sed, sollicitudin felis. Aenean euismod nibh non sagittis ultricies. Phasellus sit amet mauris nec erat elementum mattis sit amet nec libero. Aliquam erat volutpat. Ut bibendum mattis sagittis. In vitae commodo dolor, vel scelerisque dui.",
+    textE: ``,
+    tropes: 'contemporary hockey romance, forbidden relationship, enemies to lovers',
+    addOns: 'GRs, fanart, etc',
+    highlightsE: 'https://www.goodreads.com/notes/220966494-heated-rivalry/124881434-lena',
+  },
+  {
     id: 7,
     name: `The Charm Offensive`,
     author: 'Alison Cochrun',
