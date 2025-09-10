@@ -4,7 +4,7 @@ export const books = [
     name: `The Long Game`,
     author: 'Rachel Reid',
     bookRating: '-',
-    cover: 'https://images-na.ssl-images-amazon.com/images/I/71LLGT0DIxL._AC_UL600_SR600,600_.jpg',
+    cover: 'https://cdn.thestorygraph.com/82cscq4w11ixh5fn9xh5glnernxs',
     GR: 'https://www.goodreads.com/book/show/220966428-the-long-game',
     SG: 'https://app.thestorygraph.com/books/440446f5-b3ed-45a2-b37a-9e3924e7beae',
     textB: "Vivamus in mauris odio. Donec non laoreet quam, at porta ex. Mauris pharetra lectus sit amet vulputate egestas. Quisque elementum fringilla lectus, vitae blandit magna consectetur vel. Nunc non rutrum magna. Fusce quis lobortis ante. Nam a suscipit nisl, ac mattis felis. Nullam tortor tellus, semper quis fermentum eu, elementum sit amet elit.",
