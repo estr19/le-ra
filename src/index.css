@@ -80,33 +80,55 @@ a {
 }
 
 /**************************************************** MAIN ****************************************************/
-
 :root {
-  --star-color: rgba(244, 248, 211, 0);
-  --star-background: rgba(166, 214, 214, .85); /*rgba(247, 207, 216, .75);*/
+  --star-size: 2.25em;
+  --star-color: #387a7a;
+  --star-background: #e8e0eb;
+  /* --emoji-color: rgba(244, 248, 211, 0);
+  --emoji-background: rgba(166, 214, 214, .85); rgba(247, 207, 216, .75); */
 }
 
-.emoji {
+.Stars {
+  --percent: calc(var(--rating) / 5 * 100%);
+  font-size: var(--star-size);
+  width: 100%;
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+}
+
+.Stars::before {
+  content: "★★★★★";
+  background: linear-gradient(
+    90deg,
+    var(--star-color) var(--percent),
+    var(--star-background) var(--percent)
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* .emoji {
   --percent: calc(var(--rating) / 5 * 100%);
   width: 15em;
   margin: .5em 0 0;
-}
+} */
 
-.emoji::before {
+/* .emoji::before {
   content: '';
   display: block;
   height: 2.5em;
   width: auto;
   background-image: linear-gradient(
     90deg,
-    var(--star-color) var(--percent),
-    var(--star-background) var(--percent)
+    var(--emoji-color) var(--percent),
+    var(--emoji-background) var(--percent)
     ),
     url("/src/scale.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: contain;
-}
+} */
 
 .container {
   display: flex;

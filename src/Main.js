@@ -6,7 +6,7 @@ function Main() {
       <h1>Le-Ra and the Princesses of Publications</h1>
       <div className='container'>
         {books.map((book) => {
-          const { id, name, author, bookRating, cover, GR, SG, textB, textE, tropes, highlightsE} =
+          const { id, name, author, bookRating, spiceRating, cover, GR, SG, textB, textE, tropes, highlightsE} =
             book;
           return (
             <div className='book' key={id}>
@@ -18,7 +18,7 @@ function Main() {
                   <h3>{author}</h3>
                   <h4><a href={GR} target='_blank' rel='noopener noreferrer'>Goodreads</a> | <a href={SG} target='_blank' rel='noopener noreferrer'>StoryGraph</a></h4>
                   <div
-                    className='emoji'
+                    className='Stars'
                     style={{ '--rating': `${bookRating}`}}
                     title={
                       bookRating === '0'
@@ -26,6 +26,8 @@ function Main() {
                         : `${bookRating} out of 5`
                     }
                   />
+                  <label for="spice">👨‍❤️‍💋‍👨🛏️🏇🎤🎾&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏒</label>
+                  <progress id="spice" value={spiceRating} max="100"></progress>
                 </div>
                 <div className='description'>
                   <div className='items'>
