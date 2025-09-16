@@ -123,6 +123,18 @@ export const rwrbConvo = [
     <span>"“Dude, people are writing fan fiction about y'all—” “Yeah, Nora sent me that.” “—I think you can give it a rest.”"</span>`,
   },
   {
+    id: 6.5,
+    chapter: 6,
+    name: 'estr19',
+    pfp: estr19pfp,
+    message: `
+    <span>""</span>
+
+    <span>""</span>
+
+    <span>""</span>`,
+  },
+  {
     id: 7,
     chapter: 7,
     name: 'bensmom33',

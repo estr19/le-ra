@@ -14,7 +14,7 @@ function Main() {
                   <figure>
                     <img src={cover} alt={name} />
                   </figure>
-                  <h2>'{name}'</h2>
+                  <h2>"{name}"</h2>
                   <h3>{author}</h3>
                   <h4><a href={GR} target='_blank' rel='noopener noreferrer'>Goodreads</a> | <a href={SG} target='_blank' rel='noopener noreferrer'>StoryGraph</a></h4>
                   <div
