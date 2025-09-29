@@ -127,12 +127,12 @@ export const rwrbConvo = [
     chapter: 6,
     name: 'estr19',
     pfp: estr19pfp,
-    message: `
-    <span>""</span>
+    message: `When I read the following quote, I imagined Viola from "She's the Man" aggressively eating chicken at the debutant ball rehearsal:
+    <span>"Henry is seated with the prime minister, and Alex sits and chews his food like it's personally wronged him and watches Henry from across the room, seething."</span>
 
-    <span>""</span>
+    Love how this passage gives us a glimpse of what Alex is thinkinmg and maybe admitting (a little): <span>"They're not going to spoon all night or wake up in each other's arms or eat breakfast together. Mutually satisfying sexual experiences do not a relationship make. Even if he did want that, there are a million reasons why this will never, ever be possible."</span>
 
-    <span>""</span>`,
+    EMAIL NICKNAMES!! I repeat, EMAIL NICKNAMES!!! <span>"Horrible Revolting Heir, Huge Raging Headache, Harangued Royal Highness, Handsome Royal Heretic, His Royal Horniness; First Son of Your Former Colony, First Son of Off-Brand England, First Son of Hating Fund-raisers, First Son of Shirking Responsibilities, First Son of Inappropriately Timed Emails and, of course, First Son of Cheese Shopping and Blowjobs"</span>`,
   },
   {
     id: 7,
