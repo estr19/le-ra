@@ -42,7 +42,7 @@ export const books = [
     textE: ``,
     tropes: 'contemporary hockey romance, secret relationship',
     addOns: 'GRs, fanart, etc',
-    highlightsE: 'https://www.goodreads.com/notes/220966494-heated-rivalry/124881434-lena',
+    highlightsE: 'https://www.goodreads.com/notes/220966428-the-long-game/124881434-lena',
   },
   {
     id: 8,
