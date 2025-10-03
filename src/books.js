@@ -1,5 +1,20 @@
 export const books = [
   {
+    id: 12,
+    name: `The Unlikely Heir`,
+    author: 'Jax Calder',
+    bookRating: '4.75',
+    spiceRating: 35,
+    cover: 'https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1689147404i/179592122.jpg',
+    GR: 'https://www.goodreads.com/book/show/179592122-the-unlikely-heir',
+    SG: 'https://app.thestorygraph.com/books/3f73293d-3e0e-4a09-bd23-9cb4ab2b54af',
+    textB: "Ut non tortor tempus, porta purus ut, molestie enim. Interdum et malesuada fames ac ante ipsum primis in faucibus. Cras pulvinar tortor nibh, et tincidunt sem rutrum imperdiet. Nunc ac fringilla orci. Donec eu enim imperdiet odio fringilla varius. Fusce feugiat nisl leo, nec posuere sem egestas ac.",
+    textE: ``,
+    tropes: 'contemporary royal romance, slow burn',
+    addOns: 'GRs, fanart, etc',
+    highlightsE: 'https://www.goodreads.com/notes/179592122-the-unlikely-heir/124881434-lena',
+  },
+  {
     id: 11,
     name: `Role Model`,
     author: 'Rachel Reid',
