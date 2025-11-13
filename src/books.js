@@ -20,7 +20,7 @@ export const books = [
     author: 'Rachel Reid',
     bookRating: '4.75',
     spiceRating: 60,
-    cover: 'https://cdn.thestorygraph.com/hx5z3gtoa9yfltyu4zcpb8ttwn9f',
+    cover: 'https://cdn.thestorygraph.com/qpxv0jyt07k7dkprkxpvytuyfyte',
     GR: 'https://www.goodreads.com/book/show/220966685-role-model',
     SG: 'https://app.thestorygraph.com/books/26a47b6a-9752-4a94-ada0-e449d2fc7eff',
     textB: "Ut non tortor tempus, porta purus ut, molestie enim. Interdum et malesuada fames ac ante ipsum primis in faucibus. Cras pulvinar tortor nibh, et tincidunt sem rutrum imperdiet. Nunc ac fringilla orci. Donec eu enim imperdiet odio fringilla varius. Fusce feugiat nisl leo, nec posuere sem egestas ac.",
