@@ -80,7 +80,7 @@ export const books = [
     author: 'Cat Sebastian',
     bookRating: '4.5',
     spiceRating: 30,
-    cover: 'https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1666624468i/62972185.jpg',
+    cover: 'https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1668619517i/63309870.jpg',
     GR: 'https://www.goodreads.com/book/show/62972185-daniel-cabot-puts-down-roots',
     SG: 'https://app.thestorygraph.com/books/d2c9b95b-bc5c-4b99-81fe-b8e02539ddf7',
     textB: "Pellentesque quis odio odio. Morbi ut pharetra massa, id dictum metus. Sed ipsum elit, aliquet ut metus nec, placerat aliquam eros. Nulla fermentum sagittis mauris. Nunc quam nulla, sodales ac posuere a, scelerisque id mi. Quisque nec molestie nunc. Duis sollicitudin ipsum ex.",
