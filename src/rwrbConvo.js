@@ -190,6 +190,16 @@ export const rwrbConvo = [
     3. An underrated Nora line: <span>“I didn't realize this was a jazz brunch,” says Nora's voice suddenly, and Henry springs backward so fast he almost puts his ass in the bowl of batter. She sidles up to the forgotten coffeemaker, grinning slyly at them."</span>`,
   },
   {
+    id: 9.5,
+    chapter: 9,
+    name: 'estr19',
+    pfp: estr19pfp,
+    message: `PowerPoints!! <span>"SEXUAL EXPERIMENTATION WITH FOREIGN MONARCHS: A GRAY AREA. | EXPLORING YOUR SEXUALITY: HEALTHY, BUT DOES IT HAVE TO BE WITH THE PRINCE OF ENGLAND? | FEDERAL FUNDING, TRAVEL EXPENSES, BOOTY CALLS, AND YOU."</span>
+    Henry offering less of himself now that Alex is off the campaign is so... selfless but heartbreaking: <span>“The phrase “see attached bibliography” is the single sexiest thing you have ever written to me. Every time you mention your slow decay inside the White House, I can't help but feel it's my fault, and I feel absolutely shit about it. I'm sorry. ... I just want to… you know. Extend the option. If you wanted less of me, and more of that—the work, the uncomplicated things—I would understand. Truly.”</span>
+    Some words of wisdom from Oscar: <span>“Sometimes you just jump and hope it's not a cliff.”</span>
+    And the inevitable: <span>“A ringing, scooped- out sensation starts behind his molars and rolls down his throat, into his chest, down to the pit of his stomach. Something's wrong, and he knows it, but he's too afraid to push back or ask. That, he realizes suddenly, is the danger of allowing love into this— the acknowledgment that if something goes wrong, he doesn't know how he will stand it. For the first time since Henry grabbed him and kissed him with so much certainty in the garden, the thought enters Alex's mind: What if it was never his decision to make? What if he got so wrapped up in everything Henry is— the words he writes, the earnest heartsickness of him— he forgot to take into account that it's just how he is, all the time, with everyone?”</span>`,
+  },
+  {
     id: 10,
     chapter: 10,
     name: 'bensmom33',
@@ -204,6 +214,16 @@ export const rwrbConvo = [
     <span>"Alex turns away from him, falling back on his heels like he's been slapped. “Fine,” he finally says. “You know what? Fucking fine. I'll leave.” “Good.” “I'll leave,” he says, and he turns back and leans in, “as soon as you tell me to leave.” “Alex.” He's in Henry's face now. If he's getting his heart broken tonight, he's sure as hell going to make Henry have the guts to do it right. “Tell me you're done with me. I'll get back on the plane. That's it. And you can live here in your tower and be miserable forever, write a whole book of sad fucking poems about it. Whatever. Just say it.” “Fuck you,” Henry says, his voice breaking, and he gets a handful of Alex's shirt collar, and Alex knows he's going to love this stubborn shithead forever."</span>`,
   },
   {
+    id: 10.5,
+    chapter: 10,
+    name: 'estr19',
+    pfp: estr19pfp,
+    message: `We have to start with this one: <span>“Henry! Your Royal fucking Highness!” ... “Fuckin' ghost me for a week, make me stand in the rain like a brown John Cusack, and now you won't even talk to me. I'm really just having a great time here. I can see why all y'all had to marry your fucking cousins.”</span>
+    My all-time favorite obtuse fucking asshole! <span>“Jesus, could you stop being an obtuse fucking asshole for, like, twenty seconds?” “So glad you flew here to insult me—” “I fucking love you, okay?”</span>
+    Henry needing some time to think: <span>“I needed a run,” he says. “To clear my head a bit, figure out… what's next. Very Mr. Darcy brooding at Pemberley. And I ran into Philip. I hadn't mentioned it, but he and Martha are here for the week while they're doing renovations on Anmer Hall. He was up early for some appearance or other, eating toast. Plain toast. Have you ever seen someone eat toast without anything on it? Harrowing, truly.”</span>
+    <span>“Christ, Alex. The whole bloody time.” “The whole time?” “Since the Olympics.” “The Olympics?” Alex yanks Henry's pillow out from under him. “But that's, that's like—” “Yes, Alex, the day we met, nothing gets past you, does it?” Henry says, reaching to steal the pillow back. “'What about you,' he says, as if he doesn't know—”</span>`,
+  },
+  {
     id: 11,
     chapter: 11,
     name: 'bensmom33',
@@ -212,6 +232,16 @@ export const rwrbConvo = [
     <span>"Re: telling Philip, sounds like a great plan. If all else fails, just do what I did and act like a huge jackass until most of your family figures it out on their own."</span>
     <span>"But the first time I saw you. Rio. I took that down to the gardens. I pressed it into the leaves of a silver maple and recited it to the Waterloo Vase. It didn't fit in any rooms."</span>
     <span>"God, I want to fight everyone who's ever hurt you, but it was me too, wasn't it? All that time. I'm so sorry."</span>`,
+  },
+  {
+    id: 11.5,
+    chapter: 11,
+    name: 'estr19',
+    pfp: estr19pfp,
+    message: `Still THRILLED to get Star Wars references!! <span>“I still remember what you said to that little girl in the hospital about Luke Skywalker: “He's proof that it doesn't matter where you come from or who your family is.” Sweetheart, you're proof too.”</span>
+    Iconic 💅<span>“I wonder sometimes what is the point of me, or anything. I should have just packed a bag like I said. I could be in your bed, languishing away until I perish, fat and sexually conquered, snuffed out in the spring of my youth. Here lies Prince Henry of Wales. He died as he lived: avoiding plans and sucking cock.”</span>
+    Their continued emails and especially this: <span>“And then I was a careless fool, and I fell in love with you anyway. When you rang me at truly shocking hours of the night, I loved you. When you kissed me in disgusting public toilets and pouted in hotel bars and made me happy in ways in which it had never even occurred to me that a mangled- up, locked- up person like me could be happy, I loved you. And then, inexplicably, you had the absolute audacity to love me back. Can you believe it? Sometimes, even now, I still can't.”</span>
+    The whole list, and this: <span>“20. The fact that you loved me all along. I keep thinking about that last one ever since you told me, and what an idiot I was. It's so hard for me to get out of my own head sometimes, but now I'm coming back to what I said to you the night in my room when it all started, and how I brushed you off when you offered to let me go after the DNC, how I used to try to act like it was nothing sometimes. I didn't even know what you were offering to do to yourself. God, I want to fight everyone who's ever hurt you, but it was me too, wasn't it? All that time. I'm so sorry.”</span>`,
   },
   {
     id: 12,
