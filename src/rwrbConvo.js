@@ -143,7 +143,20 @@ export const rwrbConvo = [
 
     The second because it's a rare example where the movie dialogue improved upon the book: <span>“The official family name is Mountchristen-Windsor,” Henry says. “Hyphenate, like yours. So my full name is… Henry George Edward James Fox-Mountchristen-Windsor.” Alex gapes up at the ceiling. “Oh… my God.” “Truly.” “I thought Alexander Gabriel Claremont-Diaz was bad.”</span>
 
-    And lastly June saying what we all are thinking: <span>"June makes a strangled noise, and when he looks back up, she's digging through the top drawer of her dresser. “Oh my God, how are you so smart and so dumb at the same time?” she says, pulling a magazine out from underneath her underwear. He's about to tell her he's not in the mood to look at her tabloids when she throws it at him. An ancient issue of J14, opened to a center page. The photograph of Henry, age thirteen."</span>`,
+    And lastly June saying what we all are thinking: <span>"June makes a strangled noise, and when he looks back up, she's digging through the top drawer of her dresser. “Oh my God, how are you so smart and so dumb at the same time?” she says, pulling a magazine out from underneath her underwear. He's about to tell her he's not in the mood to look at her tabloids when she throws it at him. An ancient issue of J14, opened to a center page. The photograph of Henry, age thirteen.”</span>`,
+  },
+  {
+    id: 7.5,
+    chapter: 7,
+    name: 'estr19',
+    pfp: estr19pfp,
+    message: `Yeah, "casual" was never in the room with us: <span>"Henry hates those days completely. Alex wishes he could help, but he doesn't particularly mind. He's just as attracted to Henry's cloudy tempers, the way he comes back from them, and the millions of shades in between.”</span>
+
+    And then the movie got us a perfect glimpse of this: <span>"They talk for so long Alex has to plug his phone in to keep the battery from dying. He rolls onto his side and listens, trails the back of his hand across the pillow next to him and imagines Henry lying opposite in his own bed, two parentheses enclosing 3,700 miles.”</span>
+
+    Not a fan of June barging in with her theories and whatnot, but she's right: <span>“I never really… got what he was to you, until I got it. I thought you had a crush or something, or that I could help you make a friend, but, Alex. We meet so many people. I mean, thousands and thousands of people, and a lot of them are morons, and a lot of them are incredible, unique people, but I almost never meet somebody who's a match for you. Do you know that?” She leans forward and touches his knee, pink fingernails on his navy chinos. “You have so much in you, it's almost impossible to match it. But he's your match, dumbass.”</span>
+    
+    And finally this: <span>"He watches Henry lather up and shave, put pomade in his hair, put on his Burberry for the day, and he catches himself wishing he could watch it every day. He likes taking Henry apart, but there's something incredibly intimate about sitting on the bed they wrecked the night before, the only one who watches him create Prince Henry of Wales for the day.”</span>`,
   },
   {
     id: 8,
@@ -155,6 +168,17 @@ export const rwrbConvo = [
     <span>“I think I've proven that I can handle royals.” Henry looks doubtful. “You're brave. I could use some of that.”</span>
     <span>“I'll have a gin and tonic, thanks,” it says, and there's Henry in the flesh, sidled up next to him at the bar, looking a little tousled in a soft gray button-down and jeans. Alex wonders for an insane second if his brain has conjured up some kind of stress-induced sex mirage, when Henry says, voice lowered, “You looked rather tragic drinking alone.”</span>
     <span>“You still are. Because you still bloody care so much.” He leans down and presses a kiss into Alex's hair. “And you are good. Most things are awful most of the time, but you're good.”</span>`,
+  },
+  {
+    id: 8.5,
+    chapter: 8,
+    name: 'estr19',
+    pfp: estr19pfp,
+    message: `Four again cause I'm a copycat 😏
+    This made me positively GIDDY as a lifelong tennis player and fan: <span>"Gilded edges, spindly calligraphy: THE CHAIRMAN AND COMMITTEE OF MANAGEMENT OF THE CHAMPIONSHIPS REQUEST THE PLEASURE OF THE COMPANY OF ALEXANDER CLAREMONT- DIAZ IN THE ROYAL BOX ON THE 6TH OF JULY, 2020."</span>
+    ICONIC 💅 <span>“Awesome, fuckin' love doing things out of spite,” he says without a hint of sarcasm, and he kicks Henry's feet apart.”</span>
+    Henry surprising Alex at DNC: <span>“You still are. Because you still bloody care so much.” He leans down and presses a kiss into Alex's hair. “And you are good. Most things are awful most of the time, but you're good.” Alex takes a breath. There's this way Henry has of listening to the erratic stream of consciousness that pours out of Alex's mouth and answering with the clearest, crystallized truth that Alex has been trying to arrive at all along. If Alex's head is a storm, Henry is the place lightning hits ground. He wants it to be true.</span>
+    Another iconic exchange now featuring Zahra! <span>“Since, um. New Year's,” Alex says. “New Year's?” Zahra repeats, eyes wide. “This has been going on for seven months? That's why you— Oh my God, I thought you were getting into international relations or something.”</span>`,
   },
   {
     id: 9,
