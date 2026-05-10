@@ -255,6 +255,17 @@ export const rwrbConvo = [
     <span>“Fuck!” he says a third time, spiking the newspaper at the floor. That one was his. It feels obscene to see it there. “How the fuck did they get these?” “Yep,” Zahra agrees. “You dirty did it.”</span>`,
   },
   {
+    id: 12.5,
+    chapter: 12,
+    name: 'estr19',
+    pfp: estr19pfp,
+    message: `Zahra with her "gatcha" moment 🤭 <span>“Uh-uh, nope,” she says. “You don't get to say shit to me about secret relationships in and around this campaign, princess.” “Point,” Alex concedes.</span>
+    These fake dates were KILLING me, and the fact that FP had to do them despite saying they DIDN'T wanna do it 😭 <span>“He's always known June was one inch from taking a bullet for him, but this? He would never ask her to do this.”</span>
+    Some glimpses of anxiety that Alex hides from Henry not wanting to burden him any further: <span>“He also wants to grab people by the shoulders and shake them and tell them Henry is his, you idiots, even though the whole point of this was for it to be believable. ... The stifling orders, pretending to be someone he's not—Alex has always tried to be a refuge for Henry from it all. It was never supposed to come from his side too.”</span>
+    Need I say more?? <span>“Okay, fine, kid,” Luna finally snaps, “you want me to be your fucking sherpa? Here's my advice: Don't tell anyone. Go find a nice girl and marry her. You're luckier than me—you can do that, and it wouldn't even be a lie.” And what comes out of Alex's mouth, comes so fast he has no chance to stop it, only divert it out of English at the last second in case it's overheard: “Sería una mentira, porque no sería él.” It would be a lie, because it wouldn't be him.”</span>
+    Gonna have a 5th one today cause I can't "not" include this one: <span>“Since when did you buy into it?” Alex spits. “You, me, my family, the people we run with—we were gonna be the honest ones! I have absolutely zero interest in being a politician with some perfect veneer and two-point-five kids. Didn't we decide it was supposed to be about helping people? About the fight? What part of that is so fucking irreconcilable with letting people see who I really am? Who you are, Raf?”</span>`,
+  },
+  {
     id: 13,
     chapter: 13,
     name: 'bensmom33',
@@ -265,6 +276,18 @@ export const rwrbConvo = [
     <span>"“For what it's worth,” he says to Philip, “that is the bravest son of a bitch I've ever met.” And he leaves too."</span>`,
   },
   {
+    id: 13.5,
+    chapter: 13,
+    name: 'estr19',
+    pfp: estr19pfp,
+    message: `A prime example of Alex never stopping to consider himself before considering others: <span>“Are you okay?” she says finally. When he looks up in surprise, there's no anger in her eyes. The president stands on the edge of a career- ending scandal, measures her breaths evenly, and waits for her son to answer. Oh. It hits him with sudden clarity that he hasn't at all stopped to consider his own feelings.</span>
+    ...and now it caught up with him: <span>“...and thinking distantly that he's having a panic attack, and that's why he can't breathe, but he's just staring at the rug and he's having a panic attack and knowing why his lungs won't work doesn't make them work again. He's faintly aware of being shifted into his room, to his bed, which is still covered in the godforsaken fucking newspapers, and someone guides him onto it, and he sits down and tries very, very hard to make a list in his head. One. One. One.”</span>
+    Posessive Alex that has inspired another throng of fanfics: <span>“Still, the cocky shithead part of him is slightly pleased to finally have a claim on Henry. Yep, the prince? Most eligible bachelor in the world? British accent, face like a Greek god, legs for days? Mine.”</span>
+    LOVE Bea's explanation of grief!! It helped me understand the people around me that have experienced a loss that I personally have not.<span>“So, imagine we're all born with a set of feelings. Some are broader or deeper than others, but for everyone, there's that ground floor, a bottom crust of the pie. That's the maximum depth of feeling you've ever experienced. And then, the worst thing happens to you. The very worst thing that could have happened. The thing you had nightmares about as a child, and you thought, it's all right because that thing will happen to me when I'm older and wiser, and I'll have felt so many feelings by then that this one worst feeling, the worst possible feeling, won't seem so terrible. “But it happens to you when you're young. It happens when your brain isn't even fully done cooking— when you've barely experienced anything, really. The worst thing is one of the first big things that ever happens to you in your life. It happens to you, and it goes all the way down to the bottom of what you know how to feel, and it rips it open and carves out this chasm down below to make room. And because you were so young, and because it was one of the first big things to happen in your life, you'll always carry it inside you. Every time something terrible happens to you from then on, it doesn't just stop at the bottom— it goes all the way down.”</span>
+    And forever iconic: <span>“For what it's worth,” he says to Philip, “that is the bravest son of a bitch I've ever met.”</span>
+    I can't NOT include another SW reference that inspired a lot of fanarts 🥺 <span>“It's a mural of himself and Henry, facing each other, haloed by a bright yellow sun, depicted as Han and Leia. Henry in all white, starlight in his hair. Alex dressed as a scruffy smuggler, a blaster at his hip. A royal and a rebel, arms around each other. He snaps a photo on his phone, and fingers shaking, types out a tweet: Never tell me the odds.”</span>`,
+  },
+  {
     id: 14,
     chapter: 14,
     name: 'bensmom33',
@@ -273,6 +296,16 @@ export const rwrbConvo = [
     <span>"June cries first when she hears about the phone call on the plane, then again at Henry standing up to Philip, and a third time at the crowd outside Buckingham Palace."</span>
     <span>“Ellen,” Nora practically yells. The room goes silent, and Nora freezes, realizing. “Uh. Ma'am. Mom-in-law. Please, just. You need to read this.”</span>
     <span>“I'm not giving them shit,” Ellen cuts him off immediately, not even looking up, “especially not after what they did to you. This is real shit. I'm taking this motherfucker down. It has to stick.” She finally puts her highlighter down. “We're leaking it to the press.”</span>`,
+  },
+  {
+    id: 14.5,
+    chapter: 14,
+    name: 'estr19',
+    pfp: estr19pfp,
+    message: `Another favorite quote of mine: <span>“You are,” he says, “the absolute worst idea I've ever had.”</span>
+    The whole speech! <span>“I spoke to you for the first time when I was eighteen, on the stage of the Democratic National Convention in Philadelphia, when I introduced my mother as the nominee for president. You cheered for me. I was young and full of hope, and you let me embody the American dream: that a boy who grew up speaking two languages, whose family was blended and beautiful and enduring, could make a home for himself in the White House. ... Every person who bears a legacy makes the choice of a partner with whom they will share it, whom the American people will hold beside them in hearts and memories and history books. America: He is my choice.”</span>
+    Funny and tragic at the same time 😩 <span>“Henry's agreed to sleep in the room rather than Alex's “because I respect your mother,” as if every person who had a hand in raising Alex has not read in graphic detail the things they get up to when they share a bed.”</span>
+    <span>“Absolutely. You've got the royal suitor photos to take, the Christmas cards to sign… Oh, I wonder if they'll have you do a line of skincare products like Martha—”</span>`,
   },
   {
     id: 15,
@@ -287,5 +320,16 @@ export const rwrbConvo = [
     <span>"“Come on, you backyard-shooting-range motherfuckers,” Zahra is muttering under her breath beside him when he falls in with his people. “Did she just say backyard shooting range?” Henry asks, leaning into Alex's ear. “Is that a real thing a person can have?” “You really have a lot to learn about America, mijo,” Oscar tells him, not unkindly."</span>
     
     <span>"He's so caught up that he doesn't realize at first Henry isn't at his side, and he turns back to see him hovering in the wings, just behind a curtain. Always hesitant to step on anyone's moment. That's not going to fly anymore. He's family. He's part of it all now, headlines and oil paintings and pages in the Library of Congress, etched right alongside. And he's part of them. Goddamn forever. “Come on!” Alex yells, waving him over, and Henry spares a second to look panicked before he's tipping his chin up and buttoning his suit jacket and stepping out onto the stage. He gravitates to Alex's side, beaming. Alex throws one arm around him and the other around June. Nora presses in at June's other side. And President Ellen Claremont steps up to the podium."</span>`,
+  },
+  {
+    id: 15.5,
+    chapter: 15,
+    name: 'estr19',
+    pfp: estr19pfp,
+    message: `Nora helping Alex make sense of things that happened to him: <span>She presses on. “I don't think this is just about Texas. You were recently fucking traumatized in a big way, and now you're scared of doing or saying the kind of stuff you actually like and want to because you don't want to draw any more attention to yourself.”</span>
+    Me watching the Paris scene (I also want to look away as if I'm intruding): <span>“The way Henry's looking at him in the picture is so affectionate, so openly loving, that seeing it from a third person's perspective almost makes Alex want to look away, like he's staring into the sun. He called Henry the North Star once. That wasn't bright enough.”</span>
+    <span>He's so caught up that he doesn't realize at first Henry isn't at his side, and he turns back to see him hovering in the wings, just behind a curtain. Always hesitant to step on anyone's moment. That's not going to fly anymore. He's family. He's part of it all now, headlines and oil paintings and pages in the Library of Congress, etched right alongside. And he's part of them.</span>
+    Love the music choice here: <span>“There's music echoing through the streets, loudest when they reach the Capitol, where someone has climbed up the front steps and erected a set of loudspeakers blasting Starship's “Nothing's Gonna Stop Us Now.””</span>
+    WE ALL WON! <span>“We won.” “Yeah. We won.”</span>`,
   },
 ];
